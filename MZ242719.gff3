@@ -1,0 +1,109 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region MZ242719.1 1 9173
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11676
+MZ242719.1	Genbank	region	1	9173	.	+	.	ID=MZ242719.1:1..9173;Dbxref=taxon:11676;clone=MSTRG.2.4;country=USA;gb-acronym=HIV-1;gbkey=Src;genome=genomic;group=M;mol_type=genomic RNA;nat-host=Homo sapiens;note=VIR(HIV-1)_ISO(NL4-3)_UTR(A)_ORF(A)_SEG(1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1);strain=NL4-3;subgroup=B
+MZ242719.1	Genbank	sequence_feature	1	290	.	+	.	ID=id-MZ242719.1:1..290;Note=locus segment 1%3B Minimal 5' UTR segment (constitutive);gbkey=misc_feature
+MZ242719.1	Genbank	repeat_region	1	97	.	+	.	ID=id-MZ242719.1:1..97;Note=5' R repeat;gbkey=repeat_region
+MZ242719.1	Genbank	sequence_feature	98	181	.	+	.	ID=id-MZ242719.1:98..181;Note=Unique 5' (U5);gbkey=misc_feature
+MZ242719.1	Genbank	sequence_feature	238	281	.	+	.	ID=id-MZ242719.1:238..281;Note=Psi SL1;gbkey=misc_feature
+MZ242719.1	Genbank	sequence_feature	283	301	.	+	.	ID=id-MZ242719.1:283..301;Note=Psi SL2;gbkey=misc_feature
+MZ242719.1	Genbank	sequence_feature	291	4459	.	+	.	ID=id-MZ242719.1:291..4459;Note=locus segment 2%3B gag-pol segment;gbkey=misc_feature
+MZ242719.1	Genbank	sequence_feature	313	326	.	+	.	ID=id-MZ242719.1:313..326;Note=Psi SL3;gbkey=misc_feature
+MZ242719.1	Genbank	gene	337	8332	.	+	.	ID=gene-gag-pol;Name=gag-pol;gbkey=Gene;gene=gag-pol;gene_biotype=protein_coding
+MZ242719.1	Genbank	CDS	337	1632	.	+	0	ID=cds-UED13366.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13366.1;Name=UED13366.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER7-Gag-Pol;protein_id=UED13366.1
+MZ242719.1	Genbank	CDS	1632	4509	.	+	0	ID=cds-UED13366.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13366.1;Name=UED13366.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER7-Gag-Pol;protein_id=UED13366.1
+MZ242719.1	Genbank	CDS	4937	5010	.	+	2	ID=cds-UED13366.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13366.1;Name=UED13366.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER7-Gag-Pol;protein_id=UED13366.1
+MZ242719.1	Genbank	CDS	5523	5591	.	+	0	ID=cds-UED13366.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13366.1;Name=UED13366.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER7-Gag-Pol;protein_id=UED13366.1
+MZ242719.1	Genbank	CDS	7916	8332	.	+	0	ID=cds-UED13366.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13366.1;Name=UED13366.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER7-Gag-Pol;protein_id=UED13366.1
+MZ242719.1	Genbank	CDS	337	1632	.	+	0	ID=cds-UED13367.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13367.1;Name=UED13367.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER4-Gag-Pol;protein_id=UED13367.1
+MZ242719.1	Genbank	CDS	1632	4509	.	+	0	ID=cds-UED13367.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13367.1;Name=UED13367.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER4-Gag-Pol;protein_id=UED13367.1
+MZ242719.1	Genbank	CDS	5523	5591	.	+	2	ID=cds-UED13367.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13367.1;Name=UED13367.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER4-Gag-Pol;protein_id=UED13367.1
+MZ242719.1	Genbank	CDS	7916	8190	.	+	2	ID=cds-UED13367.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13367.1;Name=UED13367.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER4-Gag-Pol;protein_id=UED13367.1
+MZ242719.1	Genbank	CDS	337	1632	.	+	0	ID=cds-UED13368.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13368.1;Name=UED13368.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER5-Gag-Pol;protein_id=UED13368.1
+MZ242719.1	Genbank	CDS	1632	4509	.	+	0	ID=cds-UED13368.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13368.1;Name=UED13368.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER5-Gag-Pol;protein_id=UED13368.1
+MZ242719.1	Genbank	CDS	5523	5599	.	+	2	ID=cds-UED13368.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13368.1;Name=UED13368.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER5-Gag-Pol;protein_id=UED13368.1
+MZ242719.1	Genbank	CDS	337	1632	.	+	0	ID=cds-UED13369.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13369.1;Name=UED13369.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER9-Gag-Pol;protein_id=UED13369.1
+MZ242719.1	Genbank	CDS	1632	4605	.	+	0	ID=cds-UED13369.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13369.1;Name=UED13369.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER9-Gag-Pol;protein_id=UED13369.1
+MZ242719.1	Genbank	CDS	5324	5349	.	+	2	ID=cds-UED13369.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13369.1;Name=UED13369.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER9-Gag-Pol;protein_id=UED13369.1
+MZ242719.1	Genbank	CDS	337	1632	.	+	0	ID=cds-UED13370.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13370.1;Name=UED13370.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER6/8-Gag-Pol;protein_id=UED13370.1
+MZ242719.1	Genbank	CDS	1632	4509	.	+	0	ID=cds-UED13370.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13370.1;Name=UED13370.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER6/8-Gag-Pol;protein_id=UED13370.1
+MZ242719.1	Genbank	CDS	4937	5166	.	+	2	ID=cds-UED13370.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13370.1;Name=UED13370.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=GENER6/8-Gag-Pol;protein_id=UED13370.1
+MZ242719.1	Genbank	CDS	337	1632	.	+	0	ID=cds-UED13371.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13371.1;Name=UED13371.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=Gag-Pol;protein_id=UED13371.1
+MZ242719.1	Genbank	CDS	1632	4643	.	+	0	ID=cds-UED13371.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13371.1;Name=UED13371.1;exception=ribosomal slippage;gbkey=CDS;gene=gag-pol;product=Gag-Pol;protein_id=UED13371.1
+MZ242719.1	Genbank	CDS	337	1839	.	+	0	ID=cds-UED13372.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13372.1;Name=UED13372.1;gbkey=CDS;gene=gag-pol;product=Gag polyprotein;protein_id=UED13372.1
+MZ242719.1	Genbank	CDS	4588	5010	.	+	0	ID=cds-UED13373.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13373.1;Name=UED13373.1;gbkey=CDS;gene=gag-pol;product=GENER11-vif-env;protein_id=UED13373.1
+MZ242719.1	Genbank	CDS	5523	5591	.	+	0	ID=cds-UED13373.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13373.1;Name=UED13373.1;gbkey=CDS;gene=gag-pol;product=GENER11-vif-env;protein_id=UED13373.1
+MZ242719.1	Genbank	CDS	7916	8332	.	+	0	ID=cds-UED13373.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13373.1;Name=UED13373.1;gbkey=CDS;gene=gag-pol;product=GENER11-vif-env;protein_id=UED13373.1
+MZ242719.1	Genbank	CDS	4599	4605	.	+	0	ID=cds-UED13377.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13377.1;Name=UED13377.1;gbkey=CDS;gene=gag-pol;product=GENER10;protein_id=UED13377.1
+MZ242719.1	Genbank	CDS	4937	5010	.	+	2	ID=cds-UED13377.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13377.1;Name=UED13377.1;gbkey=CDS;gene=gag-pol;product=GENER10;protein_id=UED13377.1
+MZ242719.1	Genbank	CDS	5523	5591	.	+	0	ID=cds-UED13377.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13377.1;Name=UED13377.1;gbkey=CDS;gene=gag-pol;product=GENER10;protein_id=UED13377.1
+MZ242719.1	Genbank	CDS	7916	8332	.	+	0	ID=cds-UED13377.1;Parent=gene-gag-pol;Dbxref=NCBI_GP:UED13377.1;Name=UED13377.1;gbkey=CDS;gene=gag-pol;product=GENER10;protein_id=UED13377.1
+MZ242719.1	Genbank	sequence_feature	337	732	.	+	.	ID=id-gag-pol;gbkey=misc_feature;gene=gag-pol;product=p17
+MZ242719.1	Genbank	sequence_feature	337	357	.	+	.	ID=id-gag-pol-2;Note=Psi SL4;gbkey=misc_feature;gene=gag-pol
+MZ242719.1	Genbank	sequence_feature	733	1425	.	+	.	ID=id-gag-pol-3;gbkey=misc_feature;gene=gag-pol;product=p24
+MZ242719.1	Genbank	sequence_feature	1426	1467	.	+	.	ID=id-gag-pol-4;gbkey=misc_feature;gene=gag-pol;product=p2
+MZ242719.1	Genbank	sequence_feature	1468	1632	.	+	.	ID=id-gag-pol-5;gbkey=misc_feature;gene=gag-pol;product=p7
+MZ242719.1	Genbank	sequence_feature	1630	1800	.	+	.	ID=id-gag-pol-6;gbkey=misc_feature;gene=gag-pol;product=Gag-Pol transframe peptide
+MZ242719.1	Genbank	sequence_feature	1633	1680	.	+	.	ID=id-gag-pol-7;gbkey=misc_feature;gene=gag-pol;product=p1
+MZ242719.1	Genbank	sequence_feature	1681	1836	.	+	.	ID=id-gag-pol-8;gbkey=misc_feature;gene=gag-pol;product=p6
+MZ242719.1	Genbank	sequence_feature	1800	2096	.	+	.	ID=id-gag-pol-9;gbkey=misc_feature;gene=gag-pol;product=protease (PR)
+MZ242719.1	Genbank	sequence_feature	2097	3776	.	+	.	ID=id-gag-pol-10;gbkey=misc_feature;gene=gag-pol;product=p66 subunit of reverse transcriptase (RT)
+MZ242719.1	Genbank	sequence_feature	2097	3416	.	+	.	ID=id-gag-pol-11;gbkey=misc_feature;gene=gag-pol;product=p51 subunit of reverse transcriptase (RT)
+MZ242719.1	Genbank	sequence_feature	3417	3776	.	+	.	ID=id-gag-pol-12;Note=p15 RNAse domain;gbkey=misc_feature;gene=gag-pol
+MZ242719.1	Genbank	sequence_feature	3777	4509	.	+	.	ID=id-gag-pol-13;gbkey=misc_feature;gene=gag-pol;product=GENER7-integrase
+MZ242719.1	Genbank	sequence_feature	4937	5010	.	+	.	ID=id-gag-pol-13;gbkey=misc_feature;gene=gag-pol;product=GENER7-integrase
+MZ242719.1	Genbank	sequence_feature	5523	5591	.	+	.	ID=id-gag-pol-13;gbkey=misc_feature;gene=gag-pol;product=GENER7-integrase
+MZ242719.1	Genbank	sequence_feature	7916	8329	.	+	.	ID=id-gag-pol-13;gbkey=misc_feature;gene=gag-pol;product=GENER7-integrase
+MZ242719.1	Genbank	sequence_feature	3777	4509	.	+	.	ID=id-gag-pol-14;gbkey=misc_feature;gene=gag-pol;product=GENER4-integrase
+MZ242719.1	Genbank	sequence_feature	5523	5591	.	+	.	ID=id-gag-pol-14;gbkey=misc_feature;gene=gag-pol;product=GENER4-integrase
+MZ242719.1	Genbank	sequence_feature	7916	8187	.	+	.	ID=id-gag-pol-14;gbkey=misc_feature;gene=gag-pol;product=GENER4-integrase
+MZ242719.1	Genbank	sequence_feature	3777	4509	.	+	.	ID=id-gag-pol-15;gbkey=misc_feature;gene=gag-pol;product=GENER5-integrase
+MZ242719.1	Genbank	sequence_feature	5523	5596	.	+	.	ID=id-gag-pol-15;gbkey=misc_feature;gene=gag-pol;product=GENER5-integrase
+MZ242719.1	Genbank	sequence_feature	3777	4605	.	+	.	ID=id-gag-pol-16;gbkey=misc_feature;gene=gag-pol;product=GENER9-integrase
+MZ242719.1	Genbank	sequence_feature	5324	5346	.	+	.	ID=id-gag-pol-16;gbkey=misc_feature;gene=gag-pol;product=GENER9-integrase
+MZ242719.1	Genbank	sequence_feature	3777	4509	.	+	.	ID=id-gag-pol-17;gbkey=misc_feature;gene=gag-pol;product=GENER6/8-integrase
+MZ242719.1	Genbank	sequence_feature	4937	5163	.	+	.	ID=id-gag-pol-17;gbkey=misc_feature;gene=gag-pol;product=GENER6/8-integrase
+MZ242719.1	Genbank	sequence_feature	3777	4640	.	+	.	ID=id-gag-pol-18;gbkey=misc_feature;gene=gag-pol;product=p33 integrase (IN)
+MZ242719.1	Genbank	sequence_feature	4328	4445	.	+	.	ID=id-gag-pol-19;Note=cPPT/CTS;gbkey=misc_feature;gene=gag-pol
+MZ242719.1	Genbank	sequence_feature	4460	4509	.	+	.	ID=id-gag-pol-20;Note=locus segment 3%3B pol 1 segment;gbkey=misc_feature;gene=gag-pol
+MZ242719.1	Genbank	sequence_feature	4510	4605	.	+	.	ID=id-gag-pol-21;Note=locus segment 4%3B pol 2 segment%3B Segment 4.;gbkey=misc_feature;gene=gag-pol
+MZ242719.1	Genbank	gene	4588	5696	.	+	.	ID=gene-vif;Name=vif;gbkey=Gene;gene=vif;gene_biotype=protein_coding
+MZ242719.1	Genbank	CDS	4588	5010	.	+	0	ID=cds-UED13374.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13374.1;Name=UED13374.1;gbkey=CDS;gene=vif;product=GENER3-vif;protein_id=UED13374.1
+MZ242719.1	Genbank	CDS	5523	5696	.	+	0	ID=cds-UED13374.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13374.1;Name=UED13374.1;gbkey=CDS;gene=vif;product=GENER3-vif;protein_id=UED13374.1
+MZ242719.1	Genbank	CDS	4588	5010	.	+	0	ID=cds-UED13375.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13375.1;Name=UED13375.1;gbkey=CDS;gene=vif;product=GENER2-vif;protein_id=UED13375.1
+MZ242719.1	Genbank	CDS	5324	5341	.	+	0	ID=cds-UED13375.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13375.1;Name=UED13375.1;gbkey=CDS;gene=vif;product=GENER2-vif;protein_id=UED13375.1
+MZ242719.1	Genbank	CDS	4588	5166	.	+	0	ID=cds-UED13376.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13376.1;Name=UED13376.1;gbkey=CDS;gene=vif;product=Vif protein;protein_id=UED13376.1
+MZ242719.1	Genbank	CDS	4599	4605	.	+	0	ID=cds-UED13378.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13378.1;Name=UED13378.1;gbkey=CDS;gene=vif;product=GENER12-vif;protein_id=UED13378.1
+MZ242719.1	Genbank	CDS	4937	5166	.	+	2	ID=cds-UED13378.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13378.1;Name=UED13378.1;gbkey=CDS;gene=vif;product=GENER12-vif;protein_id=UED13378.1
+MZ242719.1	Genbank	CDS	5377	5595	.	+	0	ID=cds-UED13381.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13381.1;Name=UED13381.1;gbkey=CDS;gene=vif;product=GENER13-tat;protein_id=UED13381.1
+MZ242719.1	Genbank	CDS	5516	5599	.	+	0	ID=cds-UED13383.1;Parent=gene-vif;Dbxref=NCBI_GP:UED13383.1;Name=UED13383.1;gbkey=CDS;gene=vif;product=GENER14-rev;protein_id=UED13383.1
+MZ242719.1	Genbank	sequence_feature	4606	4936	.	+	.	ID=id-vif;Note=locus segment 5%3B vif 1 segment%3B Segment 5.;gbkey=misc_feature;gene=vif
+MZ242719.1	Genbank	sequence_feature	4937	5010	.	+	.	ID=id-vif-2;Note=locus segment 6%3B vif 2 segment%3B Segment 6.;gbkey=misc_feature;gene=vif
+MZ242719.1	Genbank	sequence_feature	5011	5323	.	+	.	ID=id-vif-3;Note=locus segment 7%3B vif-vpr segment%3B Segment 7.;gbkey=misc_feature;gene=vif
+MZ242719.1	Genbank	sequence_feature	5324	5522	.	+	.	ID=id-vif-4;Note=locus segment 8%3B vpr-tat/rev segment%3B Segment 8.;gbkey=misc_feature;gene=vif
+MZ242719.1	Genbank	sequence_feature	5523	5591	.	+	.	ID=id-vif-5;Note=locus segment 9%3B tat/rev segment (constitutive);gbkey=misc_feature;gene=vif
+MZ242719.1	Genbank	gene	5106	5396	.	+	.	ID=gene-vpr;Name=vpr;gbkey=Gene;gene=vpr;gene_biotype=protein_coding
+MZ242719.1	Genbank	CDS	5106	5396	.	+	0	ID=cds-UED13379.1;Parent=gene-vpr;Dbxref=NCBI_GP:UED13379.1;Name=UED13379.1;gbkey=CDS;gene=vpr;product=Vpr protein;protein_id=UED13379.1
+MZ242719.1	Genbank	sequence_feature	5290	5295	.	+	.	ID=id-vpr;Note=EcoRI site of recombination;gbkey=misc_feature;gene=vpr
+MZ242719.1	Genbank	gene	5377	7961	.	+	.	ID=gene-tat;Name=tat;gbkey=Gene;gene=tat;gene_biotype=protein_coding
+MZ242719.1	Genbank	CDS	5377	5591	.	+	0	ID=cds-UED13380.1;Parent=gene-tat;Dbxref=NCBI_GP:UED13380.1;Name=UED13380.1;Note=Also called Tat-2.;gbkey=CDS;gene=tat;product=Tat protein;protein_id=UED13380.1
+MZ242719.1	Genbank	CDS	7916	7961	.	+	1	ID=cds-UED13380.1;Parent=gene-tat;Dbxref=NCBI_GP:UED13380.1;Name=UED13380.1;Note=Also called Tat-2.;gbkey=CDS;gene=tat;product=Tat protein;protein_id=UED13380.1
+MZ242719.1	Genbank	sequence_feature	5592	7915	.	+	.	ID=id-tat;Note=locus segment 10%3B vpu/env segment%3B Segment 10.;gbkey=misc_feature;gene=tat
+MZ242719.1	Genbank	gene	5516	8190	.	+	.	ID=gene-rev;Name=rev;gbkey=Gene;gene=rev;gene_biotype=protein_coding
+MZ242719.1	Genbank	CDS	5516	5591	.	+	0	ID=cds-UED13382.1;Parent=gene-rev;Dbxref=NCBI_GP:UED13382.1;Name=UED13382.1;gbkey=CDS;gene=rev;product=Rev protein;protein_id=UED13382.1
+MZ242719.1	Genbank	CDS	7916	8190	.	+	2	ID=cds-UED13382.1;Parent=gene-rev;Dbxref=NCBI_GP:UED13382.1;Name=UED13382.1;gbkey=CDS;gene=rev;product=Rev protein;protein_id=UED13382.1
+MZ242719.1	Genbank	gene	5608	5853	.	+	.	ID=gene-vpu;Name=vpu;gbkey=Gene;gene=vpu;gene_biotype=protein_coding
+MZ242719.1	Genbank	CDS	5608	5853	.	+	0	ID=cds-UED13384.1;Parent=gene-vpu;Dbxref=NCBI_GP:UED13384.1;Name=UED13384.1;gbkey=CDS;gene=vpu;product=Vpu protein;protein_id=UED13384.1
+MZ242719.1	Genbank	gene	5768	8332	.	+	.	ID=gene-env;Name=env;gbkey=Gene;gene=env;gene_biotype=protein_coding
+MZ242719.1	Genbank	CDS	5768	8332	.	+	0	ID=cds-UED13385.1;Parent=gene-env;Dbxref=NCBI_GP:UED13385.1;Name=UED13385.1;gbkey=CDS;gene=env;product=Env polyprotein;protein_id=UED13385.1
+MZ242719.1	Genbank	sequence_feature	5768	7294	.	+	.	ID=id-env;gbkey=misc_feature;gene=env;product=gp120
+MZ242719.1	Genbank	sequence_feature	7295	8329	.	+	.	ID=id-env-2;gbkey=misc_feature;gene=env;product=gp41
+MZ242719.1	Genbank	sequence_feature	7306	7539	.	+	.	ID=id-env-3;Note=Rev response element (RRE);gbkey=misc_feature;gene=env
+MZ242719.1	Genbank	sequence_feature	7916	9173	.	+	.	ID=id-MZ242719.1:7916..9173;Note=locus segment 11%3B 3' terminus (constitutive);gbkey=misc_feature
+MZ242719.1	Genbank	gene	8334	8954	.	+	.	ID=gene-nef;Name=nef;gbkey=Gene;gene=nef;gene_biotype=protein_coding
+MZ242719.1	Genbank	CDS	8334	8954	.	+	0	ID=cds-UED13386.1;Parent=gene-nef;Dbxref=NCBI_GP:UED13386.1;Name=UED13386.1;gbkey=CDS;gene=nef;product=Nef protein;protein_id=UED13386.1
+MZ242719.1	Genbank	sequence_feature	8623	9075	.	+	.	ID=id-MZ242719.1:8623..9075;Note=Unique 3' (U3);gbkey=misc_feature
+MZ242719.1	Genbank	repeat_region	9076	9173	.	+	.	ID=id-MZ242719.1:9076..9173;Note=3' R repeat;gbkey=repeat_region
+
