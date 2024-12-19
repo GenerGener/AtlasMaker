@@ -1,0 +1,974 @@
+CLUSTAL format alignment by MAFFT (v7.511)
+
+
+ref_MZ2427 ------------------------------------------------------------
+ref_HXB2   tggaagggctaattcactcccaacgaagacaagatatccttgatctgtggatctaccaca
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ------------------------------------------------------------
+ref_HXB2   cacaaggctacttccctgattagcagaactacacaccagggccagggatcagatatccac
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ------------------------------------------------------------
+ref_HXB2   tgacctttggatggtgctacaagctagtaccagttgagccagagaagttagaagaagcca
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ------------------------------------------------------------
+ref_HXB2   acaaaggagagaacaccagcttgttacaccctgtgagcctgcatggaatggatgacccgg
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ------------------------------------------------------------
+ref_HXB2   agagagaagtgttagagtggaggtttgacagccgcctagcatttcatcacatggcccgag
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ------------------------------------------------------------
+ref_HXB2   agctgcatccggagtacttcaagaactgctgacatcgagcttgctacaagggactttccg
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ------------------------------------------------------------
+ref_HXB2   ctggggactttccagggaggcgtggcctgggcgggactggggagtggcgagccctcagat
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ---------------------------------gggtctctctggttagaccagatctga
+ref_HXB2   cctgcatataagcagctgctttttgcctgtactgggtctctctggttagaccagatctga
+out_unsp   ---------------------------------gggtctctctggttagaccagatctga
+out_19     ---------------------------------gggtctctctggttagaccagatctga
+                                            ***************************
+
+ref_MZ2427 gcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgcct
+ref_HXB2   gcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgcct
+out_unsp   gcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgcct
+out_19     gcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgcct
+           ************************************************************
+
+ref_MZ2427 tgagtgctcaaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
+ref_HXB2   tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
+out_unsp   tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
+out_19     tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
+           ********. **************************************************
+
+ref_MZ2427 agacccttttagtcagtgtggaaaatctctagcagtggcgcccgaacagggacttgaaag
+ref_HXB2   agacccttttagtcagtgtggaaaatctctagcagtggcgcccgaacagggacctgaaag
+out_unsp   agacccttttagtcagtgtggaaaatctctagcagtggcgcccgaacagggacctgaaag
+out_19     agacccttttagtcagtgtggaaaatctctagcagtggcgcccgaacagggacctgaaag
+           *****************************************************.******
+
+ref_MZ2427 cgaaagtaaagccagaggagatctctcgacgcaggactcggcttgctgaagcgcgcacgg
+ref_HXB2   cgaaagggaaaccagaggagctctctcgacgcaggactcggcttgctgaagcgcgcacgg
+out_unsp   cgaaagggaaaccagaggagctctctcgacgcaggactcggcttgctgaagcgcgcacgg
+out_19     cgaaagggaaaccagaggagctctctcgacgcaggactcggcttgctgaagcgcgcacgg
+           ****** .**.********* ***************************************
+
+ref_MZ2427 caagaggcgaggggcggcgactggtgagtacgccaaaaattttgactagcggaggctaga
+ref_HXB2   caagaggcgaggggcggcgactggtgagtacgccaaaaattttgactagcggaggctaga
+out_unsp   caagaggcgaggggcggcgactggtgagtacgccaaaaattttgactagcggaggctaga
+out_19     caagaggcgaggggcggcgact--------------------------------------
+           **********************                                      
+
+ref_MZ2427 aggagagagatgggtgcgagagcgtcggtattaagcgggggagaattagataaatgggaa
+ref_HXB2   aggagagagatgggtgcgagagcgtcagtattaagcgggggagaattagatcgatgggaa
+out_unsp   aggagagagatgggtgcgagagcgtcagtattaagcgggggagaattagatcgatgggaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aaaattcggttaaggccagggggaaagaaacaatataaactaaaacatatagtatgggca
+ref_HXB2   aaaattcggttaaggccagggggaaagaaaaaatataaattaaaacatatagtatgggca
+out_unsp   aaaattcggttaaggccagggggaaagaaaaaatataaattaaaacatatagtatgggca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agcagggagctagaacgattcgcagttaatcctggccttttagagacatcagaaggctgt
+ref_HXB2   agcagggagctagaacgattcgcagttaatcctggcctgttagaaacatcagaaggctgt
+out_unsp   agcagggagctagaacgattcgcagttaatcctggcctgttagaaacatcagaaggctgt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agacaaatactgggacagctacaaccatcccttcagacaggatcagaagaacttagatca
+ref_HXB2   agacaaatactgggacagctacaaccatcccttcagacaggatcagaagaacttagatca
+out_unsp   agacaaatactgggacagctacaaccatcccttcagacaggatcagaagaacttagatca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ttatataatacaatagcagtcctctattgtgtgcatcaaaggatagatgtaaaagacacc
+ref_HXB2   ttatataatacagtagcaaccctctattgtgtgcatcaaaggatagagataaaagacacc
+out_unsp   ttatataatacagtagcaaccctctattgtgtgcatcaaaggatagagataaaagacacc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aaggaagccttagataagatagaggaagagcaaaacaaaagtaagaaaaaggcacagcaa
+ref_HXB2   aaggaagctttagacaagatagaggaagagcaaaacaaaagtaagaaaaaagcacagcaa
+out_unsp   aaggaagctttagacaagatagaggaagagcaaaacaaaagtaagaaaaaagcacagcaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gcagcagctgacacaggaaacaacagccaggtcagccaaaattaccctatagtgcagaac
+ref_HXB2   gcagcagctgacacaggacacagcaatcaggtcagccaaaattaccctatagtgcagaac
+out_unsp   gcagcagctgacacaggacacagcaatcaggtcagccaaaattaccctatagtgcagaac
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ctccaggggcaaatggtacatcaggccatatcacctagaactttaaatgcatgggtaaaa
+ref_HXB2   atccaggggcaaatggtacatcaggccatatcacctagaactttaaatgcatgggtaaaa
+out_unsp   atccaggggcaaatggtacatcaggccatatcacctagaactttaaatgcatgggtaaaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gtagtagaagagaaggctttcagcccagaagtaatacccatgttttcagcattatcagaa
+ref_HXB2   gtagtagaagagaaggctttcagcccagaagtgatacccatgttttcagcattatcagaa
+out_unsp   gtagtagaagagaaggctttcagcccagaagtgatacccatgttttcagcattatcagaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ggagccaccccacaagatttaaataccatgctaaacacagtggggggacatcaagcagcc
+ref_HXB2   ggagccaccccacaagatttaaacaccatgctaaacacagtggggggacatcaagcagcc
+out_unsp   ggagccaccccacaagatttaaacaccatgctaaacacagtggggggacatcaagcagcc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 atgcaaatgttaaaagagaccatcaatgaggaagctgcagaatgggatagattgcatcca
+ref_HXB2   atgcaaatgttaaaagagaccatcaatgaggaagctgcagaatgggatagagtgcatcca
+out_unsp   atgcaaatgttaaaagagaccatcaatgaggaagctgcagaatgggatagagtgcatcca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gtgcatgcagggcctattgcaccaggccagatgagagaaccaaggggaagtgacatagca
+ref_HXB2   gtgcatgcagggcctattgcaccaggccagatgagagaaccaaggggaagtgacatagca
+out_unsp   gtgcatgcagggcctattgcaccaggccagatgagagaaccaaggggaagtgacatagca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ggaactactagtacccttcaggaacaaataggatggatgacacataatccacctatccca
+ref_HXB2   ggaactactagtacccttcaggaacaaataggatggatgacaaataatccacctatccca
+out_unsp   ggaactactagtacccttcaggaacaaataggatggatgacaaataatccacctatccca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gtaggagaaatctataaaagatggataatcctgggattaaataaaatagtaagaatgtat
+ref_HXB2   gtaggagaaatttataaaagatggataatcctgggattaaataaaatagtaagaatgtat
+out_unsp   gtaggagaaatttataaaagatggataatcctgggattaaataaaatagtaagaatgtat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agccctaccagcattctggacataagacaaggaccaaaggaaccctttagagactatgta
+ref_HXB2   agccctaccagcattctggacataagacaaggaccaaaggaaccctttagagactatgta
+out_unsp   agccctaccagcattctggacataagacaaggaccaaaggaaccctttagagactatgta
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gaccgattctataaaactctaagagccgagcaagcttcacaagaggtaaaaaattggatg
+ref_HXB2   gaccggttctataaaactctaagagccgagcaagcttcacaggaggtaaaaaattggatg
+out_unsp   gaccggttctataaaactctaagagccgagcaagcttcacaggaggtaaaaaattggatg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 acagaaaccttgttggtccaaaatgcgaacccagattgtaagactattttaaaagcattg
+ref_HXB2   acagaaaccttgttggtccaaaatgcgaacccagattgtaagactattttaaaagcattg
+out_unsp   acagaaaccttgttggtccaaaatgcgaacccagattgtaagactattttaaaagcattg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ggaccaggagcgacactagaagaaatgatgacagcatgtcagggagtggggggacccggc
+ref_HXB2   ggaccagcggctacactagaagaaatgatgacagcatgtcagggagtaggaggacccggc
+out_unsp   ggaccagcggctacactagaagaaatgatgacagcatgtcagggagtaggaggacccggc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 cataaagcaagagttttggctgaagcaatgagccaagtaacaaatccagctaccataatg
+ref_HXB2   cataaggcaagagttttggctgaagcaatgagccaagtaacaaattcagctaccataatg
+out_unsp   cataaggcaagagttttggctgaagcaatgagccaagtaacaaattcagctaccataatg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 atacagaaaggcaattttaggaaccaaagaaagactgttaagtgtttcaattgtggcaaa
+ref_HXB2   atgcagagaggcaattttaggaaccaaagaaagattgttaagtgtttcaattgtggcaaa
+out_unsp   atgcagagaggcaattttaggaaccaaagaaagattgttaagtgtttcaattgtggcaaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gaagggcacatagccaaaaattgcagggcccctaggaaaaagggctgttggaaatgtgga
+ref_HXB2   gaagggcacacagccagaaattgcagggcccctaggaaaaagggctgttggaaatgtgga
+out_unsp   gaagggcacacagccagaaattgcagggcccctaggaaaaagggctgttggaaatgtgga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aaggaaggacaccaaatgaaagattgtactgagagacaggctaattttttagggaagatc
+ref_HXB2   aaggaaggacaccaaatgaaagattgtactgagagacaggctaattttttagggaagatc
+out_unsp   aaggaaggacaccaaatgaaagattgtactgagagacaggctaattttttagggaagatc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tggccttcccacaagggaaggccagggaattttcttcagagcagaccagagccaacagcc
+ref_HXB2   tggccttcctacaagggaaggccagggaattttcttcagagcagaccagagccaacagcc
+out_unsp   tggccttcctacaagggaaggccagggaattttcttcagagcagaccagagccaacagcc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ccaccagaagagagcttcaggtttggggaagagacaacaactccctctcagaagcaggag
+ref_HXB2   ccaccagaagagagcttcaggtctggggtagagacaacaactccccctcagaagcaggag
+out_unsp   ccaccagaagagagcttcaggtctggggtagagacaacaactccccctcagaagcaggag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ccgatagacaaggaactgtatcctttagcttccctcagatcactctttggcagcgacccc
+ref_HXB2   ccgatagacaaggaactgtatcctttaacttccctcaggtcactctttggcaacgacccc
+out_unsp   ccgatagacaaggaactgtatcctttaacttccctcaggtcactctttggcaacgacccc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tcgtcacaataaagataggggggcaattaaaggaagctctattagatacaggagcagatg
+ref_HXB2   tcgtcacaataaagataggggggcaactaaaggaagctctattagatacaggagcagatg
+out_unsp   tcgtcacaataaagataggggggcaactaaaggaagctctattagatacaggagcagatg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 atacagtattagaagaaatgaatttgccaggaagatggaaaccaaaaatgatagggggaa
+ref_HXB2   atacagtattagaagaaatgagtttgccaggaagatggaaaccaaaaatgatagggggaa
+out_unsp   atacagtattagaagaaatgagtttgccaggaagatggaaaccaaaaatgatagggggaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ttggaggttttatcaaagtaagacagtatgatcagatactcatagaaatctgcggacata
+ref_HXB2   ttggaggttttatcaaagtaagacagtatgatcagatactcatagaaatctgtggacata
+out_unsp   ttggaggttttatcaaagtaagacagtatgatcagatactcatagaaatctgtggacata
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aagctataggtacagtattagtaggacctacacctgtcaacataattggaagaaatctgt
+ref_HXB2   aagctataggtacagtattagtaggacctacacctgtcaacataattggaagaaatctgt
+out_unsp   aagctataggtacagtattagtaggacctacacctgtcaacataattggaagaaatctgt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgactcagattggctgcactttaaattttcccattagtcctattgagactgtaccagtaa
+ref_HXB2   tgactcagattggttgcactttaaattttcccattagccctattgagactgtaccagtaa
+out_unsp   tgactcagattggttgcactttaaattttcccattagccctattgagactgtaccagtaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aattaaagccaggaatggatggcccaaaagttaaacaatggccattgacagaagaaaaaa
+ref_HXB2   aattaaagccaggaatggatggcccaaaagttaaacaatggccattgacagaagaaaaaa
+out_unsp   aattaaagccaggaatggatggcccaaaagttaaacaatggccattgacagaagaaaaaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 taaaagcattagtagaaatttgtacagaaatggaaaaggaaggaaaaatttcaaaaattg
+ref_HXB2   taaaagcattagtagaaatttgtacagagatggaaaaggaagggaaaatttcaaaaattg
+out_unsp   taaaagcattagtagaaatttgtacagagatggaaaaggaagggaaaatttcaaaaattg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ggcctgaaaatccatacaatactccagtatttgccataaagaaaaaagacagtactaaat
+ref_HXB2   ggcctgaaaatccatacaatactccagtatttgccataaagaaaaaagacagtactaaat
+out_unsp   ggcctgaaaatccatacaatactccagtatttgccataaagaaaaaagacagtactaaat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ggagaaaattagtagatttcagagaacttaataagagaactcaagatttctgggaagttc
+ref_HXB2   ggagaaaattagtagatttcagagaacttaataagagaactcaagacttctgggaagttc
+out_unsp   ggagaaaattagtagatttcagagaacttaataagagaactcaagacttctgggaagttc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aattaggaataccacatcctgcagggttaaaacagaaaaaatcagtaacagtactggatg
+ref_HXB2   aattaggaataccacatcccgcagggttaaaaaagaaaaaatcagtaacagtactggatg
+out_unsp   aattaggaataccacatcccgcagggttaaaaaagaaaaaatcagtaacagtactggatg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgggcgatgcatatttttcagttcccttagataaagacttcaggaagtatactgcattta
+ref_HXB2   tgggtgatgcatatttttcagttcccttagatgaagacttcaggaagtatactgcattta
+out_unsp   tgggtgatgcatatttttcagttcccttagatgaagacttcaggaagtatactgcattta
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ccatacctagtataaacaatgagacaccagggattagatatcagtacaatgtgcttccac
+ref_HXB2   ccatacctagtataaacaatgagacaccagggattagatatcagtacaatgtgcttccac
+out_unsp   ccatacctagtataaacaatgagacaccagggattagatatcagtacaatgtgcttccac
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agggatggaaaggatcaccagcaatattccagtgtagcatgacaaaaatcttagagcctt
+ref_HXB2   agggatggaaaggatcaccagcaatattccaaagtagcatgacaaaaatcttagagcctt
+out_unsp   agggatggaaaggatcaccagcaatattccaaagtagcatgacaaaaatcttagagcctt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ttagaaaacaaaatccagacatagtcatctatcaatacatggatgatttgtatgtaggat
+ref_HXB2   ttagaaaacaaaatccagacatagttatctatcaatacatggatgatttgtatgtaggat
+out_unsp   ttagaaaacaaaatccagacatagttatctatcaatacatggatgatttgtatgtaggat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ctgacttagaaatagggcagcatagaacaaaaatagaggaactgagacaacatctgttga
+ref_HXB2   ctgacttagaaatagggcagcatagaacaaaaatagaggagctgagacaacatctgttga
+out_unsp   ctgacttagaaatagggcagcatagaacaaaaatagaggagctgagacaacatctgttga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ggtggggatttaccacaccagacaaaaaacatcagaaagaacctccattcctttggatgg
+ref_HXB2   ggtggggacttaccacaccagacaaaaaacatcagaaagaacctccattcctttggatgg
+out_unsp   ggtggggacttaccacaccagacaaaaaacatcagaaagaacctccattcctttggatgg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gttatgaactccatcctgataaatggacagtacagcctatagtgctgccagaaaaggaca
+ref_HXB2   gttatgaactccatcctgataaatggacagtacagcctatagtgctgccagaaaaagaca
+out_unsp   gttatgaactccatcctgataaatggacagtacagcctatagtgctgccagaaaaagaca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gctggactgtcaatgacatacagaaattagtgggaaaattgaattgggcaagtcagattt
+ref_HXB2   gctggactgtcaatgacatacagaagttagtggggaaattgaattgggcaagtcagattt
+out_unsp   gctggactgtcaatgacatacagaagttagtggggaaattgaattgggcaagtcagattt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 atgcagggattaaagtaaggcaattatgtaaacttcttaggggaaccaaagcactaacag
+ref_HXB2   acccagggattaaagtaaggcaattatgtaaactccttagaggaaccaaagcactaacag
+out_unsp   acccagggattaaagtaaggcaattatgtaaactccttagaggaaccaaagcactaacag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aagtagtaccactaacagaagaagcagagctagaactggcagaaaacagggagattctaa
+ref_HXB2   aagtaataccactaacagaagaagcagagctagaactggcagaaaacagagagattctaa
+out_unsp   aagtaataccactaacagaagaagcagagctagaactggcagaaaacagagagattctaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aagaaccggtacatggagtgtattatgacccatcaaaagacttaatagcagaaatacaga
+ref_HXB2   aagaaccagtacatggagtgtattatgacccatcaaaagacttaatagcagaaatacaga
+out_unsp   aagaaccagtacatggagtgtattatgacccatcaaaagacttaatagcagaaatacaga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agcaggggcaaggccaatggacatatcaaatttatcaagagccatttaaaaatctgaaaa
+ref_HXB2   agcaggggcaaggccaatggacatatcaaatttatcaagagccatttaaaaatctgaaaa
+out_unsp   agcaggggcaaggccaatggacatatcaaatttatcaagagccatttaaaaatctgaaaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 caggaaagtatgcaagaatgaagggtgcccacactaatgatgtgaaacaattaacagagg
+ref_HXB2   caggaaaatatgcaagaatgaggggtgcccacactaatgatgtaaaacaattaacagagg
+out_unsp   caggaaaatatgcaagaatgaggggtgcccacactaatgatgtaaaacaattaacagagg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 cagtacaaaaaatagccacagaaagcatagtaatatggggaaagactcctaaatttaaat
+ref_HXB2   cagtgcaaaaaataaccacagaaagcatagtaatatggggaaagactcctaaatttaaac
+out_unsp   cagtgcaaaaaataaccacagaaagcatagtaatatggggaaagactcctaaatttaaac
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tacccatacaaaaggaaacatgggaagcatggtggacagagtattggcaagccacctgga
+ref_HXB2   tgcccatacaaaaggaaacatgggaaacatggtggacagagtattggcaagccacctgga
+out_unsp   tgcccatacaaaaggaaacatgggaaacatggtggacagagtattggcaagccacctgga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ttcctgagtgggagtttgtcaatacccctcccttagtgaagttatggtaccagttagaga
+ref_HXB2   ttcctgagtgggagtttgttaatacccctcccttagtgaaattatggtaccagttagaga
+out_unsp   ttcctgagtgggagtttgttaatacccctcccttagtgaaattatggtaccagttagaga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aagaacccataataggagcagaaactttctatgtagatggggcagccaatagggaaacta
+ref_HXB2   aagaacccatagtaggagcagaaaccttctatgtagatggggcagctaacagggagacta
+out_unsp   aagaacccatagtaggagcagaaaccttctatgtagatggggcagctaacagggagacta
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aattaggaaaagcaggatatgtaactgacagaggaagacaaaaagttgtccccctaacgg
+ref_HXB2   aattaggaaaagcaggatatgttactaatagaggaagacaaaaagttgtcaccctaactg
+out_unsp   aattaggaaaagcaggatatgttactaatagaggaagacaaaaagttgtcaccctaactg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 acacaacaaatcagaagactgagttacaagcaattcatctagctttgcaggattcgggat
+ref_HXB2   acacaacaaatcagaagactgagttacaagcaatttatctagctttgcaggattcgggat
+out_unsp   acacaacaaatcagaagactgagttacaagcaatttatctagctttgcaggattcgggat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tagaagtaaacatagtgacagactcacaatatgcattgggaatcattcaagcacaaccag
+ref_HXB2   tagaagtaaacatagtaacagactcacaatatgcattaggaatcattcaagcacaaccag
+out_unsp   tagaagtaaacatagtaacagactcacaatatgcattaggaatcattcaagcacaaccag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ataagagtgaatcagagttagtcagtcaaataatagagcagttaataaaaaaggaaaaag
+ref_HXB2   atcaaagtgaatcagagttagtcaatcaaataatagagcagttaataaaaaaggaaaagg
+out_unsp   atcaaagtgaatcagagttagtcaatcaaataatagagcagttaataaaaaaggaaaagg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tctacctggcatgggtaccagcacacaaaggaattggaggaaatgaacaagtagataaat
+ref_HXB2   tctatctggcatgggtaccagcacacaaaggaattggaggaaatgaacaagtagataaat
+out_unsp   tctatctggcatgggtaccagcacacaaaggaattggaggaaatgaacaagtagataaat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tggtcagtgctggaatcaggaaagtactatttttagatggaatagataaggcccaagaag
+ref_HXB2   tagtcagtgctggaatcaggaaagtactatttttagatggaatagataaggcccaagatg
+out_unsp   tagtcagtgctggaatcaggaaagtactatttttagatggaatagataaggcccaagatg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aacatgagaaatatcacagtaattggagagcaatggctagtgattttaacctaccacctg
+ref_HXB2   aacatgagaaatatcacagtaattggagagcaatggctagtgattttaacctgccacctg
+out_unsp   aacatgagaaatatcacagtaattggagagcaatggctagtgattttaacctgccacctg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tagtagcaaaagaaatagtagccagctgtgataaatgtcagctaaaaggggaagccatgc
+ref_HXB2   tagtagcaaaagaaatagtagccagctgtgataaatgtcagctaaaaggagaagccatgc
+out_unsp   tagtagcaaaagaaatagtagccagctgtgataaatgtcagctaaaaggagaagccatgc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 atggacaagtagactgtagcccaggaatatggcagctagattgtacacatttagaaggaa
+ref_HXB2   atggacaagtagactgtagtccaggaatatggcaactagattgtacacatttagaaggaa
+out_unsp   atggacaagtagactgtagtccaggaatatggcaactagattgtacacatttagaaggaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aagttatcttggtagcagttcatgtagccagtggatatatagaagcagaagtaattccag
+ref_HXB2   aagttatcctggtagcagttcatgtagccagtggatatatagaagcagaagttattccag
+out_unsp   aagttatcctggtagcagttcatgtagccagtggatatatagaagcagaagttattccag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 cagagacagggcaagaaacagcatacttcctcttaaaattagcaggaagatggccagtaa
+ref_HXB2   cagaaacagggcaggaaacagcatattttcttttaaaattagcaggaagatggccagtaa
+out_unsp   cagaaacagggcaggaaacagcatattttcttttaaaattagcaggaagatggccagtaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aaacagtacatacagacaatggcagcaatttcaccagtactacagttaaggccgcctgtt
+ref_HXB2   aaacaatacatactgacaatggcagcaatttcaccggtgctacggttagggccgcctgtt
+out_unsp   aaacaatacatactgacaatggcagcaatttcaccggtgctacggttagggccgcctgtt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ggtgggcggggatcaagcaggaatttggcattccctacaatccccaaagtcaaggagtaa
+ref_HXB2   ggtgggcgggaatcaagcaggaatttggaattccctacaatccccaaagtcaaggagtag
+out_unsp   ggtgggcgggaatcaagcaggaatttggaattccctacaatccccaaagtcaaggagtag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tagaatctatgaataaagaattaaagaaaattataggacaggtaagagatcaggctgaac
+ref_HXB2   tagaatctatgaataaagaattaaagaaaattataggacaggtaagagatcaggctgaac
+out_unsp   tagaatctatgaataaagaattaaagaaaattataggacaggtaagagatcaggctgaac
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 atcttaagacagcagtacaaatggcagtattcatccacaattttaaaagaaaagggggga
+ref_HXB2   atcttaagacagcagtacaaatggcagtattcatccacaattttaaaagaaaagggggga
+out_unsp   atcttaagacagcagtacaaatggcagtattcatccacaattttaaaagaaaagggggga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ttggggggtacagtgcaggggaaagaatagtagacataatagcaacagacatacaaacta
+ref_HXB2   ttggggggtacagtgcaggggaaagaatagtagacataatagcaacagacatacaaacta
+out_unsp   ttggggggtacagtgcaggggaaagaatagtagacataatagcaacagacatacaaacta
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aagaattacaaaaacaaattacaaaaattcaaaattttcgggtttattacagggacagca
+ref_HXB2   aagaattacaaaaacaaattacaaaaattcaaaattttcgggtttattacagggacagca
+out_unsp   aagaattacaaaaacaaattacaaaaattcaaaattttcgggtttattacagggacagca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gagatccagtttggaaaggaccagcaaagctcctctggaaaggtgaaggggcagtagtaa
+ref_HXB2   gaaatccactttggaaaggaccagcaaagctcctctggaaaggtgaaggggcagtagtaa
+out_unsp   gaaatccactttggaaaggaccagcaaagctcctctggaaaggtgaaggggcagtagtaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tacaagataatagtgacataaaagtagtgccaagaagaaaagcaaagatcatcagggatt
+ref_HXB2   tacaagataatagtgacataaaagtagtgccaagaagaaaagcaaagatcattagggatt
+out_unsp   tacaagataatagtgacataaaagtagtgccaagaagaaaagcaaagatcattagggatt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 atggaaaacagatggcaggtgatgattgtgtggcaagtagacaggatgaggattaacaca
+ref_HXB2   atggaaaacagatggcaggtgatgattgtgtggcaagtagacaggatgaggattagaaca
+out_unsp   atggaaaacagatggcaggtgatgattgtgtggcaagtagacaggatgaggattagaaca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tggaaaagattagtaaaacaccatatgtatatttcaaggaaagctaaggactggttttat
+ref_HXB2   tggaaaagtttagtaaaacaccatatgtatgtttcagggaaagctaggggatggttttat
+out_unsp   tggaaaagtttagtaaaacaccatatgtatgtttcagggaaagctaggggatggttttat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agacatcactatgaaagtactaatccaaaaataagttcagaagtacacatcccactaggg
+ref_HXB2   agacatcactatgaaagccctcatccaagaataagttcagaagtacacatcccactaggg
+out_unsp   agacatcactatgaaagccctcatccaagaataagttcagaagtacacatcccactaggg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gatgctaaattagtaataacaacatattggggtctgcatacaggagaaagagactggcat
+ref_HXB2   gatgctagattggtaataacaacatattggggtctgcatacaggagaaagagactggcat
+out_unsp   gatgctagattggtaataacaacatattggggtctgcatacaggagaaagagactggcat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ttgggtcagggagtctccatagaatggaggaaaaagagatatagcacacaagtagaccct
+ref_HXB2   ttgggtcagggagtctccatagaatggaggaaaaagagatatagcacacaagtagaccct
+out_unsp   ttgggtcagggagtctccatagaatggaggaaaaagagatatagcacacaagtagaccct
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gacctagcagaccaactaattcatctgcactattttgattgtttttcagaatctgctata
+ref_HXB2   gaactagcagaccaactaattcatctgtattactttgactgtttttcagactctgctata
+out_unsp   gaactagcagaccaactaattcatctgtattactttgactgtttttcagactctgctata
+out_19     ------------------------------------------------gactctgctata
+                                                           ** *********
+
+ref_MZ2427 agaaataccatattaggacgtatagttagtcctaggtgtgaatatcaagcaggacataac
+ref_HXB2   agaaaggccttattaggacacatagttagccctaggtgtgaatatcaagcaggacataac
+out_unsp   agaaaggccttattaggacacatagttagccctaggtgtgaatatcaagcaggacataac
+out_19     agaaaggccttattaggacacatagttagccctaggtgtgaatatcaagcaggacataac
+           ***** .** *********..********.******************************
+
+ref_MZ2427 aaggtaggatctctacagtacttggcactagcagcattaataaaaccaaaacagataaag
+ref_HXB2   aaggtaggatctctacaatacttggcactagcagcattaataacaccaaaaaagataaag
+out_unsp   aaggtaggatctctacaatacttggcactagcagcattaataacaccaaaaaagataaag
+out_19     a-----------------------------------------------------------
+           *                                                           
+
+ref_MZ2427 ccacctttgcctagtgttaggaaactgacagaggacagatggaacaagccccagaagacc
+ref_HXB2   ccacctttgcctagtgttacgaaactgacagaggatagatggaacaagccccagaagacc
+out_unsp   ccacctttgcctagtgttacgaaactgacagaggatagatggaacaagccccagaagacc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aagggccacagagggagccatacaatgaatggacactagagcttttagaggaacttaaga
+ref_HXB2   aagggccacagagggagccacacaatgaatggacactagagcttttagaggagcttaaga
+out_unsp   aagggccacagagggagccacacaatgaatggacactagagcttttagaggagcttaaga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gtgaagctgttagacattttcctaggatatggctccataacttaggacaacatatctatg
+ref_HXB2   atgaagctgttagacattttcctaggatttggctccatggcttagggcaacatatctatg
+out_unsp   atgaagctgttagacattttcctaggatttggctccatggcttagggcaacatatctatg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aaacttacggggatacttgggcaggagtggaagccataataagaattctgcaacaactgc
+ref_HXB2   aaacttatggggatacttgggcaggagtggaagccataataagaattctgcaacaactgc
+out_unsp   aaacttatggggatacttgggcaggagtggaagccataataagaattctgcaacaactgc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgtttatcca-tttcagaattgggtgtcgacatagcagaataggcgttactcgacagagg
+ref_HXB2   tgtttatccattttcagaattgggtgtcgacatagcagaataggcgttactcgacagagg
+out_unsp   tgtttatcca-tttcagaattgggtgtcgacatagcagaataggcgttactcgacagagg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agagcaagaaatggagccagtagatcctagactagagccctggaagcatccaggaagtca
+ref_HXB2   agagcaagaaatggagccagtagatcctagactagagccctggaagcatccaggaagtca
+out_unsp   agagcaagaaatggagccagtagatcctagactagagccctggaagcatccaggaagtca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gcctaaaactgcttgtaccaattgctattgtaaaaagtgttgctttcattgccaagtttg
+ref_HXB2   gcctaaaactgcttgtaccaattgctattgtaaaaagtgttgctttcattgccaagtttg
+out_unsp   gcctaaaactgcttgtaccaattgctattgtaaaaagtgttgctttcattgccaagtttg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tttcatgacaaaagccttaggcatctcctatggcaggaagaagcggagacagcgacgaag
+ref_HXB2   tttcataacaaaagccttaggcatctcctatggcaggaagaagcggagacagcgacgaag
+out_unsp   tttcataacaaaagccttaggcatctcctatggcaggaagaagcggagacagcgacgaag
+out_19     ----------------------------------aggaagaagcggagacagcgacgaag
+                                             **************************
+
+ref_MZ2427 agctcatcagaacagtcagactcatcaagcttctctatcaaagcagtaagtagtacatgt
+ref_HXB2   agctcatcagaacagtcagactcatcaagcttctctatcaaagcagtaagtagtacatgt
+out_unsp   agctcatcagaacagtcagactcatcaagcttctctatcaaagcagtaagtagtacatgt
+out_19     agctcatcagaacagtcagactcatcaagcttctctatcaaagca---------------
+           *********************************************               
+
+ref_MZ2427 aatgcaacctat---aatagtagcaatagtagcattagtagtagcaataataatagcaat
+ref_HXB2   aacgcaacctataccaatagtagcaatagtagcattagtagtagcaataataatagcaat
+out_unsp   aacgcaacctat---aatagtagcaatagtagcattagtagtagcaataataatagcaat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agttgtgtggtccatagtaatcatagaatataggaaaatattaagacaaagaaaaataga
+ref_HXB2   agttgtgtggtccatagtaatcatagaatataggaaaatattaagacaaagaaaaataga
+out_unsp   agttgtgtggtccatagtaatcatagaatataggaaaatattaagacaaagaaaaataga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 caggttaattgatagactaatagaaagagcagaagacagtggcaatgagagtgaaggaga
+ref_HXB2   caggttaattgatagactaatagaaagagcagaagacagtggcaatgagagtgaaggaga
+out_unsp   caggttaattgatagactaatagaaagagcagaagacagtggcaatgagagtgaaggaga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agtatcagcacttgtggagatgggggtggaaatggggcaccatgctccttgggatattga
+ref_HXB2   aatatcagcacttgtggagatgggggtggagatggggcaccatgctccttgggatgttga
+out_unsp   aatatcagcacttgtggagatgggggtggagatggggcaccatgctccttgggatgttga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgatctgtagtgctacagaaaaattgtgggtcacagtctattatggggtacctgtgtgga
+ref_HXB2   tgatctgtagtgctacagaaaaattgtgggtcacagtctattatggggtacctgtgtgga
+out_unsp   tgatctgtagtgctacagaaaaattgtgggtcacagtctattatggggtacctgtgtgga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aggaagcaaccaccactctattttgtgcatcagatgctaaagcatatgatacagaggtac
+ref_HXB2   aggaagcaaccaccactctattttgtgcatcagatgctaaagcatatgatacagaggtac
+out_unsp   aggaagcaaccaccactctattttgtgcatcagatgctaaagcatatgatacagaggtac
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ataatgtttgggccacacatgcctgtgtacccacagaccccaacccacaagaagtagtat
+ref_HXB2   ataatgtttgggccacacatgcctgtgtacccacagaccccaacccacaagaagtagtat
+out_unsp   ataatgtttgggccacacatgcctgtgtacccacagaccccaacccacaagaagtagtat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tggtaaatgtgacagaaaattttaacatgtggaaaaatgacatggtagaacagatgcatg
+ref_HXB2   tggtaaatgtgacagaaaattttaacatgtggaaaaatgacatggtagaacagatgcatg
+out_unsp   tggtaaatgtgacagaaaattttaacatgtggaaaaatgacatggtagaacagatgcatg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aggatataatcagtttatgggatcaaagcctaaagccatgtgtaaaattaaccccactct
+ref_HXB2   aggatataatcagtttatgggatcaaagcctaaagccatgtgtaaaattaaccccactct
+out_unsp   aggatataatcagtttatgggatcaaagcctaaagccatgtgtaaaattaaccccactct
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gtgttagtttaaagtgcactgatttgaagaatgatactaataccaatagtagtagcggga
+ref_HXB2   gtgttagtttaaagtgcactgatttgaagaatgatactaataccaatagtagtagcggga
+out_unsp   gtgttagtttaaagtgcactgatttgaagaatgatactaataccaatagtagtagcggga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gaatgataatggagaaaggagagataaaaaactgctctttcaatatcagcacaagcataa
+ref_HXB2   gaatgataatggagaaaggagagataaaaaactgctctttcaatatcagcacaagcataa
+out_unsp   gaatgataatggagaaaggagagataaaaaactgctctttcaatatcagcacaagcataa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gagataaggtgcagaaagaatatgcattcttttataaacttgatatagtaccaatagata
+ref_HXB2   gaggtaaggtgcagaaagaatatgcatttttttataaacttgatataataccaatagata
+out_unsp   gaggtaaggtgcagaaagaatatgcatttttttataaacttgatataataccaatagata
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 a------taccagctataggttgataagttgtaacacctcagtcattacacaggcctgtc
+ref_HXB2   atgatactaccagctataagttgacaagttgtaacacctcagtcattacacaggcctgtc
+out_unsp   a------taccagctataagttgacaagttgtaacacctcagtcattacacaggcctgtc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 caaaggtatcctttgagccaattcccatacattattgtgccccggctggttttgcgattc
+ref_HXB2   caaaggtatcctttgagccaattcccatacattattgtgccccggctggttttgcgattc
+out_unsp   caaaggtatcctttgagccaattcccatacattattgtgccccggctggttttgcgattc
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 taaaatgtaataataagacgttcaatggaacaggaccatgtacaaatgtcagcacagtac
+ref_HXB2   taaaatgtaataataagacgttcaatggaacaggaccatgtacaaatgtcagcacagtac
+out_unsp   taaaatgtaataataagacgttcaatggaacaggaccatgtacaaatgtcagcacagtac
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 aatgtacacatggaatcaggccagtagtatcaactcaactgctgttaaatggcagtctag
+ref_HXB2   aatgtacacatggaattaggccagtagtatcaactcaactgctgttaaatggcagtctag
+out_unsp   aatgtacacatggaattaggccagtagtatcaactcaactgctgttaaatggcagtctag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 cagaagaagatgtagtaattagatctgccaatttcacagacaatgctaaaaccataatag
+ref_HXB2   cagaagaagaggtagtaattagatctgtcaatttcacggacaatgctaaaaccataatag
+out_unsp   cagaagaagaggtagtaattagatctgtcaatttcacggacaatgctaaaaccataatag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tacagctgaacacatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaa
+ref_HXB2   tacagctgaacacatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaa
+out_unsp   tacagctgaacacatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gtatccgtatccagaggggaccagggagagcatttgttacaataggaaaaataggaaata
+ref_HXB2   gaatccgtatccagagaggaccagggagagcatttgttacaataggaaaaataggaaata
+out_unsp   gaatccgtatccagagaggaccagggagagcatttgttacaataggaaaaataggaaata
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgagacaagcacattgtaacattagtagagcaaaatggaatgccactttaaaacagatag
+ref_HXB2   tgagacaagcacattgtaacattagtagagcaaaatggaataacactttaaaacagatag
+out_unsp   tgagacaagcacattgtaacattagtagagcaaaatggaataacactttaaaacagatag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ctagcaaattaagagaacaatttggaaataataaaacaataatctttaagcaatcctcag
+ref_HXB2   ctagcaaattaagagaacaatttggaaataataaaacaataatctttaagcaatcctcag
+out_unsp   ctagcaaattaagagaacaatttggaaataataaaacaataatctttaagcaatcctcag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gaggggacccagaaattgtaacgcacagttttaattgtggaggggaatttttctactgta
+ref_HXB2   gaggggacccagaaattgtaacgcacagttttaattgtggaggggaatttttctactgta
+out_unsp   gaggggacccagaaattgtaacgcacagttttaattgtggaggggaatttttctactgta
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 attcaacacaactgtttaatagtacttggtttaatagtacttggagtactgaagggtcaa
+ref_HXB2   attcaacacaactgtttaatagtacttggtttaatagtacttggagtactgaagggtcaa
+out_unsp   attcaacacaactgtttaatagtacttggtttaatagtacttggagtactgaagggtcaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ataacactgaaggaagtgacacaatcacactcccatgcagaataaaacaatttataaaca
+ref_HXB2   ataacactgaaggaagtgacacaatcaccctcccatgcagaataaaacaaattataaaca
+out_unsp   ataacactgaaggaagtgacacaatcaccctcccatgcagaataaaacaaattataaaca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgtggcaggaagtaggaaaagcaatgtatgcccctcccatcagtggacaaattagatgtt
+ref_HXB2   tgtggcagaaagtaggaaaagcaatgtatgcccctcccatcagtggacaaattagatgtt
+out_unsp   tgtggcagaaagtaggaaaagcaatgtatgcccctcccatcagtggacaaattagatgtt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 catcaaatattactgggctgctattaacaagagatggtggtaataacaacaatgggtccg
+ref_HXB2   catcaaatattacagggctgctattaacaagagatggtggtaatagcaacaatgagtccg
+out_unsp   catcaaatattacagggctgctattaacaagagatggtggtaatagcaacaatgagtccg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agatcttcagacctggaggaggcgatatgagggacaattggagaagtgaattatataaat
+ref_HXB2   agatcttcagacctggaggaggagatatgagggacaattggagaagtgaattatataaat
+out_unsp   agatcttcagacctggaggaggagatatgagggacaattggagaagtgaattatataaat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ataaagtagtaaaaattgaaccattaggagtagcacccaccaaggcaaagagaagagtgg
+ref_HXB2   ataaagtagtaaaaattgaaccattaggagtagcacccaccaaggcaaagagaagagtgg
+out_unsp   ataaagtagtaaaaattgaaccattaggagtagcacccaccaaggcaaagagaagagtgg
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgcagagagaaaaaagagcagtgggaataggagctttgttccttgggttcttgggagcag
+ref_HXB2   tgcagagagaaaaaagagcagtgggaataggagctttgttccttgggttcttgggagcag
+out_unsp   tgcagagagaaaaaagagcagtgggaataggagctttgttccttgggttcttgggagcag
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 caggaagcactatgggcgcagcgtcaatgacgctgacggtacaggccagacaattattgt
+ref_HXB2   caggaagcactatgggcgcagcctcaatgacgctgacggtacaggccagacaattattgt
+out_unsp   caggaagcactatgggcgcagcctcaatgacgctgacggtacaggccagacaattattgt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ctgatatagtgcagcagcagaacaatttgctgagggctattgaggcgcaacagcatctgt
+ref_HXB2   ctggtatagtgcagcagcagaacaatttgctgagggctattgaggcgcaacagcatctgt
+out_unsp   ctggtatagtgcagcagcagaacaatttgctgagggctattgaggcgcaacagcatctgt
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgcaactcacagtctggggcatcaaacagctccaggcaagaatcctggctgtggaaagat
+ref_HXB2   tgcaactcacagtctggggcatcaagcagctccaggcaagaatcctggctgtggaaagat
+out_unsp   tgcaactcacagtctggggcatcaagcagctccaggcaagaatcctggctgtggaaagat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 acctaaaggatcaacagctcctggggatttggggttgctctggaaaactcatttgcacca
+ref_HXB2   acctaaaggatcaacagctcctggggatttggggttgctctggaaaactcatttgcacca
+out_unsp   acctaaaggatcaacagctcctggggatttggggttgctctggaaaactcatttgcacca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ctgctgtgccttggaatgctagttggagtaataaatctctggaacagatttggaataaca
+ref_HXB2   ctgctgtgccttggaatgctagttggagtaataaatctctggaacagatttggaatcaca
+out_unsp   ctgctgtgccttggaatgctagttggagtaataaatctctggaacagatttggaatcaca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 tgacctggatggagtgggacagagaaattaacaattacacaagcttaatacactccttaa
+ref_HXB2   cgacctggatggagtgggacagagaaattaacaattacacaagcttaatacactccttaa
+out_unsp   cgacctggatggagtgggacagagaaattaacaattacacaagcttaatacactccttaa
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ttgaagaatcgcaaaaccagcaagaaaagaatgaacaagaattattggaattagataaat
+ref_HXB2   ttgaagaatcgcaaaaccagcaagaaaagaatgaacaagaattattggaattagataaat
+out_unsp   ttgaagaatcgcaaaaccagcaagaaaagaatgaacaagaattattggaattagataaat
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gggcaagtttgtggaattggtttaacataacaaattggctgtggtatataaaattattca
+ref_HXB2   gggcaagtttgtggaattggtttaacataacaaattggctgtggtatataaaattattca
+out_unsp   gggcaagtttgtggaattggtttaacataacaaattggctgtggtatataaaattattca
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 taatgatagtaggaggcttggtaggtttaagaatagtttttgctgtactttctatagtga
+ref_HXB2   taatgatagtaggaggcttggtaggtttaagaatagtttttgctgtactttctatagtga
+out_unsp   taatgatagtaggaggcttggtaggtttaagaatagtttttgctgtactttctatagtga
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 atagagttaggcagggatattcaccattatcgtttcagacccacctcccaatcccgaggg
+ref_HXB2   atagagttaggcagggatattcaccattatcgtttcagacccacctcccaaccccgaggg
+out_unsp   atagagttaggcagggatattcaccattatcgtttcagacccacctcccaaccccgaggg
+out_19     --------------------------------------acccacctcccaaccccgaggg
+                                                 *************.********
+
+ref_MZ2427 gacccgacaggcccgaaggaatagaagaagaaggtggagagagagacagagacagatcca
+ref_HXB2   gacccgacaggcccgaaggaatagaagaagaaggtggagagagagacagagacagatcca
+out_unsp   gacccgacaggcccgaaggaatagaagaagaaggtggagagagagacagagacagatcca
+out_19     gacccgacaggcccgaaggaatagaagaagaaggtggagagagagacagagacagatcca
+           ************************************************************
+
+ref_MZ2427 ttcgattagtgaacggatccttagcacttatctgggacgatctgcggagcctgtgcctct
+ref_HXB2   ttcgattagtgaacggatccttggcacttatctgggacgatctgcggagcctgtgcctct
+out_unsp   ttcgattagtgaacggatccttggcacttatctgggacgatctgcggagcctgtgcctct
+out_19     ttcgattagtgaacggatccttggcacttatctgggacgatctgcggagcctgtgcctct
+           **********************.*************************************
+
+ref_MZ2427 tcagctaccaccgcttgagagacttactcttgattgtaacgaggattgtggaacttctgg
+ref_HXB2   tcagctaccaccgcttgagagacttactcttgattgtaacgaggattgtggaacttctgg
+out_unsp   tcagctaccaccgcttgagagacttactcttgattgtaacgaggattgtggaacttctgg
+out_19     tcagctaccaccgcttgagagacttactcttgattgtaacgaggattgtggaacttctgg
+           ************************************************************
+
+ref_MZ2427 gacgcagggggtgggaagccctcaaatattggtggaatctcctacagtattggagtcagg
+ref_HXB2   gacgcagggggtgggaagccctcaaatattggtggaatctcctacagtattggagtcagg
+out_unsp   gacgcagggggtgggaagccctcaaatattggtggaatctcctacagtattggagtcagg
+out_19     gacgcagggggtgggaagccctcaaatattggtggaatctcctacagtattggagtcagg
+           ************************************************************
+
+ref_MZ2427 aactaaagaatagtgctgttaacttgctcaatgccacagccatagcagtagctgagggga
+ref_HXB2   aactaaagaatagtgctgttagcttgctcaatgccacagccatagcagtagctgagggga
+out_unsp   aactaaagaatagtgctgttagcttgctcaatgccacagccatagcagtagctgagggga
+out_19     aactaaagaatagtgctgttagcttgctcaatgccacagccatagcagtagctgagggga
+           *********************.**************************************
+
+ref_MZ2427 cagatagggttatagaagtattacaagcagcttatagagctattcgccacatacctagaa
+ref_HXB2   cagatagggttatagaagtagtacaaggagcttgtagagctattcgccacatacctagaa
+out_unsp   cagatagggttatagaagtagtacaaggagcttgtagagctattcgccacatacctagaa
+out_19     cagatagggttatagaagtagtacaaggagcttgtagagctattcgccacatacctagaa
+           ******************** ****** *****.**************************
+
+ref_MZ2427 gaataagacagggcttggaaaggattttgctataagatgggtggcaagtggtcaaaaagt
+ref_HXB2   gaataagacagggcttggaaaggattttgctataagatgggtggcaagtggtcaaaaagt
+out_unsp   gaataagacagggcttggaaaggattttgctataagatgggtggcaagtggtcaaaaagt
+out_19     gaataagacagggcttggaaaggattttgctataagatgggtggcaagtggtcaaaaagt
+           ************************************************************
+
+ref_MZ2427 agtgtgattggatggcctgctgtaagggaaagaatgagacgagctgagccagcagcagat
+ref_HXB2   agtgtgattggatggcctactgtaagggaaagaatgagacgagctgagccagcagcagat
+out_unsp   agtgtgattggatggcctactgtaagggaaagaatgagacgagctgagccagcagcagat
+out_19     agtgtgattggatggcctactgtaagggaaagaatgagacgagctgagccagcagcagat
+           ******************.*****************************************
+
+ref_MZ2427 ggggtgggagcagtatctcgagacctagaaaaacatggagcaatcacaagtagcaataca
+ref_HXB2   agggtgggagcagcatctcgagacctggaaaaacatggagcaatcacaagtagcaataca
+out_unsp   agggtgggagcagcatctcgagacctggaaaaacatggagcaatcacaagtagcaataca
+out_19     agggtgggagcagcatctcgagacctggaaaaacatggagcaatcacaagtagcaataca
+           .************.************.*********************************
+
+ref_MZ2427 gcagctaacaatgctgcttgtgcctggctagaagcacaagaggaggaagaggtgggtttt
+ref_HXB2   gcagctaccaatgctgcttgtgcctggctagaagcacaagaggaggaggaggtgggtttt
+out_unsp   gcagctaccaatgctgcttgtgcctggctagaagcacaagaggaggaggaggtgggtttt
+out_19     gcagctaccaatgctgcttgtgcctggctagaagcacaagaggaggaggaggtgggtttt
+           ******* ***************************************.************
+
+ref_MZ2427 ccagtcacacctcaggtacctttaagaccaatgacttacaaggcagctgtagatcttagc
+ref_HXB2   ccagtcacacctcaggtacctttaagaccaatgacttacaaggcagctgtagatcttagc
+out_unsp   ccagtcacacctcaggtacctttaagaccaatgacttacaaggcagctgtagatcttagc
+out_19     ccagtcacacctcaggtacctttaagaccaatgacttacaaggcagctgtagatcttagc
+           ************************************************************
+
+ref_MZ2427 cactttttaaaagaaaaggggggactggaagggctaattcactcccaaagaagacaagat
+ref_HXB2   cactttttaaaagaaaaggggggactggaagggctaattcactcccaaagaagacaagat
+out_unsp   cactttttaaaagaaaaggggggac-----------------------------------
+out_19     cactttttaaaagaaaaggggggac-----------------------------------
+           *************************                                   
+
+ref_MZ2427 atccttgatctgtggatctaccacacacaaggctacttccctgattggcagaactacaca
+ref_HXB2   atccttgatctgtggatctaccacacacaaggctacttccctgattagcagaactacaca
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ccagggccaggggtcagatatccactgacctttggatggtgctacaagctagtaccagtt
+ref_HXB2   ccagggccaggggtcagatatccactgacctttggatggtgctacaagctagtaccagtt
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gagccagataaggtagaagaggccaataaaggagagaacaccagcttgttacaccctgtg
+ref_HXB2   gagccagataagatagaagaggccaataaaggagagaacaccagcttgttacaccctgtg
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 agcctgcatggaatggatgaccctgagagagaagtgttagagtggaggtttgacagccgc
+ref_HXB2   agcctgcatgggatggatgacccggagagagaagtgttagagtggaggtttgacagccgc
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 ctagcatttcatcacgtggcccgagagctgcatccggagtacttcaagaactgctgacat
+ref_HXB2   ctagcatttcatcacgtggcccgagagctgcatccggagtacttcaagaactgctgacat
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 cgagcttgctacaagggactttccgctggggactttccagggaggcgtggcctgggcggg
+ref_HXB2   cgagcttgctacaagggactttccgctggggactttccagggaggcgtggcctgggcggg
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 actggggagtggcgagccctcagatgctgcatataagcagctgctttttgcctgtactgg
+ref_HXB2   actggggagtggcgagccctcagatcctgcatataagcagctgctttttgcctgtactgg
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gtctctctggttagaccagatctgagcctgggagctctctggctaactagggaacccact
+ref_HXB2   gtctctctggttagaccagatctgagcctgggagctctctggctaactagggaacccact
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 gcttaagcctcaataaagcttgccttgagtgcttca------------------------
+ref_HXB2   gcttaagcctcaataaagcttgccttgagtgcttcaagtagtgtgtgcccgtctgttgtg
+out_unsp   ------------------------------------------------------------
+out_19     ------------------------------------------------------------
+                                                                       
+
+ref_MZ2427 -----------------------------------------------------------
+ref_HXB2   tgactctggtaactagagatccctcagacccttttagtcagtgtggaaaatctctagca
+out_unsp   -----------------------------------------------------------
+out_19     -----------------------------------------------------------
+                                                                      
