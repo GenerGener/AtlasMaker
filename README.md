@@ -9,9 +9,7 @@ Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 
 # repo figs
 
-
-![]([Figure xx: Reference "sandwiching" with input "bread" bias](https://github.com/GenerGener/AtlasMaker/blob/62c2c0269416ff757b6497eb375feae0e0358692/input%20vs%20reference%20with%20features.png?raw=true)
-
+<img width="1920" alt="input vs reference with features" src="https://github.com/user-attachments/assets/b1fe88ae-f133-4b70-b977-ae48775ce4c8" />
 
 # Notes from 20241219
 
