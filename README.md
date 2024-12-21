@@ -296,7 +296,7 @@ Common issues and solutions:
    - Use high-quality input sequences
    - HIV reference sets
       - [Los Alamos National Labs HIV Sequence Database Alignments](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html)
-         - [HIV-1 in Nextstrain by LANL Group](https://nextstrain.org/groups/LANL-HIV-DB/HIV/genome)
+      - [HIV-1 in Nextstrain by LANL Group](https://nextstrain.org/groups/LANL-HIV-DB/HIV/genome)
       - [NCBI HIV Subtyping tool](https://www.ncbi.nlm.nih.gov/projects/genotyping/formpage.cgi)
       - [ViralZone Human Immunodeficiency Virus 1](https://viralzone.expasy.org/7)
    - Verify sequence format and content
