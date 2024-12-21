@@ -204,6 +204,8 @@ Length Difference: 0.00%
 Positions with data: 9719
 ```
 
+Note 9719 bp is the length of input genome of [HIV-1 M HXB2](https://www.ncbi.nlm.nih.gov/nuccore/1906382), in the form of LTR-HIV-LTR.
+
 ## Technical Details
 
 ### Minimap2 Parameters
