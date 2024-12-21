@@ -8,7 +8,7 @@ Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 
 # Notes from 20241219
 
-Research question: Does isoform-informed alignment increase sequencing depth, reference coverage?
+Research question: *Does isoform-informed alignment increase sequencing depth, reference coverage?*
 
 Standard approach maps to species-specific ref. 
 
@@ -24,7 +24,7 @@ If this is done, this might “help” the aligner then recover the most of that
 
 However, there exists another layer of HIV-seq heterogeneity that is independent of per-base information: HIV mRNA splicing. Splicing effectively breaks up sequence. If the aligner is not splice aware, splice reads will remain unaligned/unmapped. 
 
-Figure with worse to least mapping
+## Figure with worse to least mapping
 
 Natural HIV reads aligned to species reference
 Natural HIV reads compared to a set of HIV references. Best match used for sample-specific mapping.
