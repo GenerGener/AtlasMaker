@@ -287,6 +287,9 @@ Common issues and solutions:
    - Check for sufficient input coverage
    - Examine alignment files for mapping issues
 
+4. **Failed initiation**
+   - Check similarity from QC. May need to adust --similarity if --input is an HIV-1 M non-B. Reminder that the HIV-1 Atlas v1.0 was made from HIV-1 M NL4-3 sequence. However, because of conservation across many primate immunodeficiency viruses, and because of flexibility of segment-based alignment which minimap2 -splice performs, the HIV-1 M NL4-3 model set sequence is sufficient for generating input-specific models.
+
 ## Best Practices
 
 1. **Input Quality**
