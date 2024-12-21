@@ -10,7 +10,7 @@ Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 # repo figs
 
 
-![]([Figure xx: Reference "sandwiching" with input "bread" bias](https://github.com/GenerGener/AtlasMaker/blob/62c2c0269416ff757b6497eb375feae0e0358692/input%20vs%20reference%20with%20features.png)?raw=true)
+![]([Figure xx: Reference "sandwiching" with input "bread" bias](https://github.com/GenerGener/AtlasMaker/blob/62c2c0269416ff757b6497eb375feae0e0358692/input%20vs%20reference%20with%20features.png?raw=true)
 
 
 # Notes from 20241219
