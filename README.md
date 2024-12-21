@@ -9,7 +9,8 @@ Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 
 # repo figs
 
-<img width="896" alt="Screenshot 2024-12-21 at 9 33 07 AM" src="https://github.com/user-attachments/assets/e7a45b02-ca4a-463e-a07f-b1b13efe5c7a" />
+<img width="1060" alt="Screenshot 2024-12-21 at 9 49 44 AM" src="https://github.com/user-attachments/assets/263ece11-6eef-4410-8c1c-73b8f68f22d7" />
+
 
 Reverse sandwich mapping performed for each model.
 
