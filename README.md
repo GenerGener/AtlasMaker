@@ -11,6 +11,8 @@ Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 
 <img width="896" alt="Screenshot 2024-12-21 at 9 33 07 AM" src="https://github.com/user-attachments/assets/e7a45b02-ca4a-463e-a07f-b1b13efe5c7a" />
 
+Reverse sandwich mapping performed for each model.
+
 
 <img width="1920" alt="input vs reference with features" src="https://github.com/user-attachments/assets/b1fe88ae-f133-4b70-b977-ae48775ce4c8" />
 
