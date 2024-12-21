@@ -8,7 +8,7 @@ Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 
 ## Overview
 
-Atlas Maker is a Python tool designed for spliced RNA mapping, particularly useful for analyzing HIV genomic sequences. The tool implements a consensus-based approach using duplicate reads and model sequences to ensure high-quality mapping results.
+Atlas Maker "atlas-maker.py" is a Python tool designed for spliced RNA mapping, particularly useful for analyzing HIV genomic sequences. The tool implements a consensus-based approach using duplicate reads and model sequences to ensure high-quality mapping results.
 
 ## Prerequisites
 
