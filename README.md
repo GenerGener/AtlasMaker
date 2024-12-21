@@ -287,6 +287,10 @@ Common issues and solutions:
 
 1. **Input Quality**
    - Use high-quality input sequences
+   - # HIV reference sets
+   -   [Los Alamos National Labs HIV Sequence Database Alignments](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html)
+   -   [NCBI HIV Subtyping tool](https://www.ncbi.nlm.nih.gov/projects/genotyping/formpage.cgi)
+   -   [ViralZone Human Immunodeficiency Virus 1](https://viralzone.expasy.org/7)
    - Verify sequence format and content
    - Check for proper FASTA formatting
 
@@ -337,12 +341,6 @@ Note the natural HIV’s genome can be assembled de novo if both seq depth and r
 
 Possible model sets: NL4-3 (lab); Natural HIV-1? Other HIVs?
 
-# HIV reference sets
 
-[Los Alamos National Labs HIV Sequence Database Alignments](https://www.hiv.lanl.gov/content/sequence/NEWALIGN/align.html)
-
-[NCBI HIV Subtyping tool](https://www.ncbi.nlm.nih.gov/projects/genotyping/formpage.cgi)
-
-[ViralZone Human Immunodeficiency Virus 1](https://viralzone.expasy.org/7)
 
 
