@@ -331,11 +331,11 @@ However, there exists another layer of HIV-seq heterogeneity that is independent
 
 ## Figure with worse to least mapping
 
-Natural HIV reads aligned to species reference
-Natural HIV reads compared to a set of HIV references. Best match used for sample-specific mapping.
-Natural HIV reads aligned to species reference transcript models
-Natural HIV reads aligned to sample-specific imputed transcript models (proposed)
-Natural HIV reads aligned to sample-specific transcript models (impractical).
+- Natural HIV reads aligned to species reference
+- Natural HIV reads compared to a set of HIV references. Best match used for sample-specific mapping.
+- Natural HIV reads aligned to species reference transcript models
+- Natural HIV reads aligned to sample-specific imputed transcript models (proposed)
+- Natural HIV reads aligned to sample-specific transcript models (impractical).
 
 Note the natural HIV’s genome can be assembled de novo if both seq depth and reference coverage are sufficient. Reads can be enriched from sample background by selecting reads that exhibit homology to HIV reference genomes per the spectrum above. Iteration after each step can reassure the investigator about match quality.
 
