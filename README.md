@@ -12,7 +12,7 @@ Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 <img width="1060" alt="Screenshot 2024-12-21 at 9 49 44 AM" src="https://github.com/user-attachments/assets/263ece11-6eef-4410-8c1c-73b8f68f22d7" />
 
 
-Reverse sandwich mapping performed for each model.
+Reverse sandwich mapping performed for each model. Color coding above is to denote distinct sequences which might coincidentaly share homology. For this process, it is important to ensure appropriate sequence is captured and fed forward into the resulting output input-derived transcript models.
 
 
 <img width="1920" alt="input vs reference with features" src="https://github.com/user-attachments/assets/b1fe88ae-f133-4b70-b977-ae48775ce4c8" />
