@@ -34,5 +34,7 @@ Natural HIV reads aligned to sample-specific transcript models (impractical).
 
 Note the natural HIV’s genome can be assembled de novo if both seq depth and reference coverage are sufficient. Reads can be enriched from sample background by selecting reads that exhibit homology to HIV reference genomes per the spectrum above. Iteration after each step can reassure the investigator about match quality.
 
+Possible model sets: NL4-3 (lab); Natural HIV-1? Other HIVs?
+
 
 
