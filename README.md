@@ -9,8 +9,7 @@ Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 
 # repo figs
 
-<img width="1060" alt="Screenshot 2024-12-21 at 9 49 44 AM" src="https://github.com/user-attachments/assets/263ece11-6eef-4410-8c1c-73b8f68f22d7" />
-
+<img width="1063" alt="Screenshot 2024-12-21 at 10 00 32 AM" src="https://github.com/user-attachments/assets/9db69c0f-b43a-49be-8008-002cf975413d" />
 
 Reverse sandwich mapping performed for each model. Color coding above is to denote distinct sequences which might coincidentaly share homology. For this process, it is important to ensure appropriate sequence is captured and fed forward into the output input-derived transcript models using HIV-1 M NL4-3 model set (HIV-1 mRNA Atlas v1.0).
 
