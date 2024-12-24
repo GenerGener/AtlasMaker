@@ -92,13 +92,18 @@ ACTG...
 
 ## Workflow Figures
 
-**Figure 1: Reverse sandwich mapping performed for each model.** Color coding above is to denote distinct sequences which might coincidentaly share homology. For this process, it is important to ensure appropriate sequence is captured and fed forward into the output input-derived transcript models using HIV-1 M NL4-3 model set (HIV-1 mRNA Atlas v1.0).
+**Figure 1: Reverse sandwich mapping performed for each model.** Color-coding denotes distinct sequences which might coincidentaly share homology. For this process, it is important to ensure appropriate sequence is captured and fed forward into the output input-derived transcript models using HIV-1 M NL4-3 model set (HIV-1 mRNA Atlas v1.0). Neither reference genome sequence's nor transcript model's sequences make it into the output using the current implementation.
 
-<img width="1063" alt="Screenshot 2024-12-21 at 10 00 32 AM" src="https://github.com/user-attachments/assets/9db69c0f-b43a-49be-8008-002cf975413d" />
+<img width="1084" alt="Screenshot 2024-12-24 at 9 40 57 AM" src="https://github.com/user-attachments/assets/d5c6a4d5-12b6-49e3-a31d-9c52daa3d84b" />
 
-**Figure 2: Example intermediate output (before consensus calling).** Salmon coloring is indicative of reads or sequences which match the forward orientation of the reference genome used. Visulized in IGV version 2.8.13 11/20/20 12:50 AM.
+
+**Figure 2: Example intermediate output (before consensus calling).** Salmon coloring is indicative of reads or sequences which match the forward orientation of the reference genome used. Blue coloring denotes features from the GenBank record MZ242719.1. Most are novel open reading frames elucidated from thresholding mRNAs seen in CD4 cells infected by suppernatant from pNL4-3 transfected cell lines. Visulized in IGV version 2.8.13 11/20/20 12:50 AM.
 
 <img width="1920" alt="input vs reference with features" src="https://github.com/user-attachments/assets/b1fe88ae-f133-4b70-b977-ae48775ce4c8" />
+
+**Figure 3: HIV-1 mRNA Atlas v1.0**
+
+
 
 ## Output Files
 
