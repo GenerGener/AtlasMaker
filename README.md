@@ -274,7 +274,9 @@ out_19     tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
 
 References:
    Katoh et al. (2002) describes FFT-NS-1, FFT-NS-2 and FFT-NS-i.
+   
    Kuraku et al. (2013) outlines this web service.
+   
 MAFFT home:
    https://mafft.cbrc.jp/alignment/software/
 
