@@ -91,12 +91,12 @@ ACTG...
    - Creates output FASTA and metadata
 
 ## Background Figure 1: HIV-1 M NLAD8 direct native RNA
-From the first full-length native/direct RNA sequencing of HIV-1. See: [Gener, Alejandro R.](https://www.biorxiv.org/content/10.1101/845610v2), Kimata, Jason T. Full-coverage native RNA sequencing of HIV-1 viruses. bioRxiv. 2019/01/01. doi: 10.1101/845610.
+From the first full-length native/direct RNA sequencing of HIV-1. Salmon coloring is indicative of reads or sequences which match the forward orientation of the reference genome used. Visulized in IGV. See: [Gener, Alejandro R.](https://www.biorxiv.org/content/10.1101/845610v2), Kimata, Jason T. Full-coverage native RNA sequencing of HIV-1 viruses. bioRxiv. 2019/01/01. doi: 10.1101/845610.
 
 <img width="1430" alt="Screenshot 2024-12-24 at 10 14 38 AM" src="https://github.com/user-attachments/assets/47ed3abb-2eda-4234-b83f-4a8ba50d8b40" />
 
 ## Background Figure 2: HIV-1 mRNA Atlas v1.0
-From the first standardized HIV-1 mRNA Atlas. See: [Gener AR](https://journals.lww.com/aidsonline/citation/2022/01010/anticipating_hiv_drug_resistance_with_appropriate.16.aspx). Anticipating HIV drug resistance with appropriate sequencing methods. AIDS. 2022 Jan 1;36(1):147-148. doi: 10.1097/QAD.0000000000003087. PMID: 34873093. 
+From the first standardized HIV-1 mRNA Atlas. Visulized in IGV. See: [Gener AR](https://journals.lww.com/aidsonline/citation/2022/01010/anticipating_hiv_drug_resistance_with_appropriate.16.aspx). Anticipating HIV drug resistance with appropriate sequencing methods. AIDS. 2022 Jan 1;36(1):147-148. doi: 10.1097/QAD.0000000000003087. PMID: 34873093. 
 
 <img width="1920" alt="Screenshot 2024-12-24 at 10 15 26 AM" src="https://github.com/user-attachments/assets/b3d1cb85-68c6-4f15-9b26-8d93ba721e6a" />
 
@@ -107,7 +107,7 @@ Color-coding denotes distinct sequences which might coincidentaly share homology
 
 
 ## Workflow Figures Figure 4: Example intermediate output (before consensus calling).
-Salmon coloring is indicative of reads or sequences which match the forward orientation of the reference genome used. Blue coloring denotes features from the GenBank record MZ242719.1. Most are novel open reading frames elucidated from thresholding mRNAs seen in CD4 cells infected by suppernatant from pNL4-3 transfected cell lines. Visulized in IGV version 2.8.13 11/20/20 12:50 AM.
+Blue coloring denotes features from the GenBank record MZ242719.1. Most are novel open reading frames elucidated from thresholding mRNAs seen in CD4 cells infected by suppernatant from pNL4-3 transfected cell lines. Visulized in IGV version 2.8.13 11/20/20 12:50 AM.
 
 <img width="1920" alt="input vs reference with features" src="https://github.com/user-attachments/assets/b1fe88ae-f133-4b70-b977-ae48775ce4c8" />
 
