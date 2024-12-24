@@ -91,7 +91,7 @@ ACTG...
    - Creates output FASTA and metadata
 
 ## Background Figure 1: HIV-1 M NLAD8 direct native RNA
-From the first full-length native/direct RNA sequencing of HIV-1 [(Gener and Kimata, 2019)](https://www.biorxiv.org/content/10.1101/845610v2). Gener, Alejandro R., Kimata, Jason T. Full-coverage native RNA sequencing of HIV-1 viruses. bioRxiv. 2019/01/01. doi: 10.1101/845610.
+From the first full-length native/direct RNA sequencing of HIV-1. See: [Gener, Alejandro R.](https://www.biorxiv.org/content/10.1101/845610v2), Kimata, Jason T. Full-coverage native RNA sequencing of HIV-1 viruses. bioRxiv. 2019/01/01. doi: 10.1101/845610.
 
 <img width="1430" alt="Screenshot 2024-12-24 at 10 14 38 AM" src="https://github.com/user-attachments/assets/47ed3abb-2eda-4234-b83f-4a8ba50d8b40" />
 
