@@ -268,6 +268,7 @@ out_unsp   tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
 out_19     tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
            ********. **************************************************
 ```
+(Pairwise alignment for tutorial example done with MAFFT online server.)
 
 Key features visible in the alignment:
 - Asterisks (*) indicate perfect conservation
