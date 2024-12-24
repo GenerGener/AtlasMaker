@@ -274,7 +274,7 @@ Key features visible in the alignment:
 - Dots (.) indicate positions with variation
 - Dashes (-) indicate gaps or missing sequence
 - Reference sequences (ref_MZ2427, ref_HXB2) show expected variations
-- Output sequences (out_unsp, out_19) show consensus with reference
+- Output sequences (out_unsp, out_19) show consensus with *input (*which happens to be the HIV-1 species-specific reference)
 
 Note that because of U3-R ideosyncracies and how users might supply their input and reference genomes, .... The latest implentation works best if the user supplies a genome that is longer than the mRNA's which were used to inform HIV-1 M NL4-3 mRNA (HIV-1 Atlas V1.0). The unspliced HIV-1 M NL4-3 mRNA model [MZ242719.1](https://www.ncbi.nlm.nih.gov/nuccore/MZ242719.1/) is 9173 bases long. Other types of loci which might be amenable to this approach include repetitive elements, whether endogenous or exogenous (e.g., retroviruses), which leverage direct long terminal repeats in their propagation.
 
