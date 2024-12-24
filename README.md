@@ -103,11 +103,13 @@ ACTG...
 
 **Figure 3: HIV-1 mRNA Atlas v1.0**
 
-![HIV models](https://github.com/user-attachments/assets/974d78ff-951a-4884-ae3e-f2f313f7b5cc)
+<img width="1920" alt="Screenshot 2024-12-24 at 10 15 26 AM" src="https://github.com/user-attachments/assets/b3d1cb85-68c6-4f15-9b26-8d93ba721e6a" />
+
 
 **Figure 4: HIV-1 M NLAD8 direct native RNA**
 
-[NLAD8 mRNA.pdf](https://github.com/user-attachments/files/18241298/NLAD8.mRNA.pdf)
+<img width="1430" alt="Screenshot 2024-12-24 at 10 14 38 AM" src="https://github.com/user-attachments/assets/47ed3abb-2eda-4234-b83f-4a8ba50d8b40" />
+
 
 ## Output Files
 
