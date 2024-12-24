@@ -236,6 +236,8 @@ minimap2 -ax splice \      # Enable spliced alignment
   -E 2,1                  # Gap extension penalties
 ```
 
+(Much thanks to Heng Li and his work on minimap2.)
+
 ### Consensus Calling
 
 The consensus sequence is generated with the following requirements:
@@ -268,7 +270,13 @@ out_unsp   tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
 out_19     tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
            ********. **************************************************
 ```
-(Pairwise alignment for tutorial example done with MAFFT online server.)
+(Pairwise alignment for tutorial example done with MAFFT online server. Method FFT-NS-i (Standard). Command: mafft --reorder --auto input.)
+
+References:
+   Katoh et al. (2002) describes FFT-NS-1, FFT-NS-2 and FFT-NS-i.
+   Kuraku et al. (2013) outlines this web service.
+MAFFT home:
+   https://mafft.cbrc.jp/alignment/software/
 
 Key features visible in the alignment:
 - Asterisks (*) indicate perfect conservation
