@@ -90,26 +90,25 @@ ACTG...
    - Generates consensus sequence
    - Creates output FASTA and metadata
 
-## Workflow Figures
+## Background Figure 1: HIV-1 M NLAD8 direct native RNA
 
-**Figure 1: Reverse sandwich mapping performed for each model.** Color-coding denotes distinct sequences which might coincidentaly share homology. For this process, it is important to ensure appropriate sequence is captured and fed forward into the output input-derived transcript models using HIV-1 M NL4-3 model set (HIV-1 mRNA Atlas v1.0). Neither reference genome sequence's nor transcript model's sequences make it into the output using the current implementation.
+<img width="1430" alt="Screenshot 2024-12-24 at 10 14 38 AM" src="https://github.com/user-attachments/assets/47ed3abb-2eda-4234-b83f-4a8ba50d8b40" />
+
+## Background Figure 2: HIV-1 mRNA Atlas v1.0
+From the first standardized HIV-1 mRNA Atlas. See: [Gener AR](https://journals.lww.com/aidsonline/citation/2022/01010/anticipating_hiv_drug_resistance_with_appropriate.16.aspx). Anticipating HIV drug resistance with appropriate sequencing methods. AIDS. 2022 Jan 1;36(1):147-148. doi: 10.1097/QAD.0000000000003087. PMID: 34873093. 
+
+<img width="1920" alt="Screenshot 2024-12-24 at 10 15 26 AM" src="https://github.com/user-attachments/assets/b3d1cb85-68c6-4f15-9b26-8d93ba721e6a" />
+
+## Workflow Figures Figure 3: Reverse sandwich mapping performed for each model. 
+Color-coding denotes distinct sequences which might coincidentaly share homology. For this process, it is important to ensure appropriate sequence is captured and fed forward into the output input-derived transcript models using HIV-1 M NL4-3 model set (HIV-1 mRNA Atlas v1.0). Neither reference genome sequence's nor transcript model's sequences make it into the output using the current implementation.
 
 <img width="1084" alt="Screenshot 2024-12-24 at 9 40 57 AM" src="https://github.com/user-attachments/assets/d5c6a4d5-12b6-49e3-a31d-9c52daa3d84b" />
 
 
-**Figure 2: Example intermediate output (before consensus calling).** Salmon coloring is indicative of reads or sequences which match the forward orientation of the reference genome used. Blue coloring denotes features from the GenBank record MZ242719.1. Most are novel open reading frames elucidated from thresholding mRNAs seen in CD4 cells infected by suppernatant from pNL4-3 transfected cell lines. Visulized in IGV version 2.8.13 11/20/20 12:50 AM.
+## Workflow Figures Figure 4: Example intermediate output (before consensus calling).
+Salmon coloring is indicative of reads or sequences which match the forward orientation of the reference genome used. Blue coloring denotes features from the GenBank record MZ242719.1. Most are novel open reading frames elucidated from thresholding mRNAs seen in CD4 cells infected by suppernatant from pNL4-3 transfected cell lines. Visulized in IGV version 2.8.13 11/20/20 12:50 AM.
 
 <img width="1920" alt="input vs reference with features" src="https://github.com/user-attachments/assets/b1fe88ae-f133-4b70-b977-ae48775ce4c8" />
-
-**Figure 3: HIV-1 mRNA Atlas v1.0**
-
-<img width="1920" alt="Screenshot 2024-12-24 at 10 15 26 AM" src="https://github.com/user-attachments/assets/b3d1cb85-68c6-4f15-9b26-8d93ba721e6a" />
-
-
-**Figure 4: HIV-1 M NLAD8 direct native RNA**
-
-<img width="1430" alt="Screenshot 2024-12-24 at 10 14 38 AM" src="https://github.com/user-attachments/assets/47ed3abb-2eda-4234-b83f-4a8ba50d8b40" />
-
 
 ## Output Files
 
