@@ -4,7 +4,7 @@ The goal of this repo will be to abstract methods from hiv-atlas-maker.py develo
 
 Related repo: [AtlasMatcher](https://github.com/GenerGener/AtlasMatcher)
 
-# Atlas Maker Tutorial
+# Tutorial
 
 ## Overview
 
