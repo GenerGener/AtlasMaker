@@ -270,15 +270,7 @@ out_unsp   tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
 out_19     tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
            ********. **************************************************
 ```
-(Pairwise alignment for tutorial example done with MAFFT online server. Method FFT-NS-i (Standard). Command: mafft --reorder --auto input.)
-
-References:
-   Katoh et al. (2002) describes FFT-NS-1, FFT-NS-2 and FFT-NS-i [^1].
-   
-   Kuraku et al. (2013) outlines this web service [^2].
-   
-MAFFT home:
-   https://mafft.cbrc.jp/alignment/software/
+(Pairwise alignment for tutorial example done with [MAFFT online server](https://mafft.cbrc.jp/alignment/software/). Method FFT-NS-i (Standard). Command: mafft --reorder --auto input.) Katoh et al. (2002) describes FFT-NS-1, FFT-NS-2 and FFT-NS-i [^1]. Kuraku et al. (2013) outlines this web service [^2].
 
 Key features visible in the alignment:
 - Asterisks (*) indicate perfect conservation
