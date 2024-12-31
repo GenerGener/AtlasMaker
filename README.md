@@ -273,9 +273,9 @@ out_19     tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
 (Pairwise alignment for tutorial example done with MAFFT online server. Method FFT-NS-i (Standard). Command: mafft --reorder --auto input.)
 
 References:
-   Katoh et al. (2002) describes FFT-NS-1, FFT-NS-2 and FFT-NS-i.
+   Katoh et al. (2002) describes FFT-NS-1, FFT-NS-2 and FFT-NS-i [^1].
    
-   Kuraku et al. (2013) outlines this web service.
+   Kuraku et al. (2013) outlines this web service [^2].
    
 MAFFT home:
    https://mafft.cbrc.jp/alignment/software/
@@ -339,6 +339,9 @@ Common issues and solutions:
 - Processing time depends on number of models
 - Disk space needed for intermediate files
 - Consider cleanup of temporary files for large datasets
+
+[^1]: Katoh K, Misawa K, Kuma K, Miyata T. MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 2002 Jul 15;30(14):3059-66. doi: 10.1093/nar/gkf436. PMID: 12136088; PMCID: PMC135756.
+[^2]: Kuraku S, Zmasek CM, Nishimura O, Katoh K. aLeaves facilitates on-demand exploration of metazoan gene family trees on MAFFT sequence alignment server with enhanced interactivity. Nucleic Acids Res. 2013 Jul;41(Web Server issue):W22-8. doi: 10.1093/nar/gkt389. Epub 2013 May 15. PMID: 23677614; PMCID: PMC3692103.
 
 
 
