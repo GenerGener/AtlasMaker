@@ -91,7 +91,7 @@ ACTG...
    - Creates output FASTA and metadata
 
 ## Background Figure 1: HIV-1 M NLAD8 direct native RNA
-From the first full-length native/direct RNA sequencing of HIV-1. Salmon coloring is indicative of reads or sequences which match the forward orientation of the reference genome used. Visulized in IGV. See: [Gener, Alejandro R.](https://www.biorxiv.org/content/10.1101/845610v2), Kimata, Jason T. Full-coverage native RNA sequencing of HIV-1 viruses. bioRxiv. 2019/01/01. doi: 10.1101/845610.
+From the first full-length native/direct RNA sequencing of HIV-1. Salmon coloring is indicative of reads or sequences which match the forward orientation of the reference genome used. Visulized in IGV[^4]. See: [Gener, Alejandro R.](https://www.biorxiv.org/content/10.1101/845610v2), Kimata, Jason T. Full-coverage native RNA sequencing of HIV-1 viruses. bioRxiv. 2019/01/01. doi: 10.1101/845610.
 
 <img width="1430" alt="Screenshot 2024-12-24 at 10 14 38 AM" src="https://github.com/user-attachments/assets/47ed3abb-2eda-4234-b83f-4a8ba50d8b40" />
 
@@ -270,7 +270,7 @@ out_unsp   tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
 out_19     tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
            ********. **************************************************
 ```
-(Pairwise alignment for tutorial example done with [MAFFT online server](https://mafft.cbrc.jp/alignment/software/) [^4]. Method FFT-NS-i (Standard) [^5]. Command: mafft --reorder --auto input.)
+(Pairwise alignment for tutorial example done with [MAFFT online server](https://mafft.cbrc.jp/alignment/software/) [^5]. Method FFT-NS-i (Standard) [^6]. Command: mafft --reorder --auto input.)
 
 Key features visible in the alignment:
 - Asterisks (*) indicate perfect conservation
@@ -335,8 +335,9 @@ Common issues and solutions:
 [^1]: Cock PJ, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A, Friedberg I, Hamelryck T, Kauff F, Wilczynski B, de Hoon MJ. Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics. 2009 Jun 1;25(11):1422-3. doi: 10.1093/bioinformatics/btp163. Epub 2009 Mar 20. PMID: 19304878; PMCID: PMC2682512.
 [^2]: Li H. Minimap2: pairwise alignment for nucleotide sequences. Bioinformatics. 2018 Sep 15;34(18):3094-3100. doi: 10.1093/bioinformatics/bty191. PMID: 29750242; PMCID: PMC6137996.
 [^3]: Li H. New strategies to improve minimap2 alignment accuracy. Bioinformatics. 2021 Dec 7;37(23):4572-4574. doi: 10.1093/bioinformatics/btab705. PMID: 34623391; PMCID: PMC8652018.
-[^4]: Kuraku S, Zmasek CM, Nishimura O, Katoh K. aLeaves facilitates on-demand exploration of metazoan gene family trees on MAFFT sequence alignment server with enhanced interactivity. Nucleic Acids Res. 2013 Jul;41(Web Server issue):W22-8. doi: 10.1093/nar/gkt389. Epub 2013 May 15. PMID: 23677614; PMCID: PMC3692103.
-[^5]: Katoh K, Misawa K, Kuma K, Miyata T. MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 2002 Jul 15;30(14):3059-66. doi: 10.1093/nar/gkf436. PMID: 12136088; PMCID: PMC135756.
+[^4]: Thorvaldsdóttir H, Robinson JT, Mesirov JP. Integrative Genomics Viewer (IGV): high-performance genomics data visualization and exploration. Brief Bioinform. 2013 Mar;14(2):178-92. doi: 10.1093/bib/bbs017. Epub 2012 Apr 19. PMID: 22517427; PMCID: PMC3603213.
+[^5]: Kuraku S, Zmasek CM, Nishimura O, Katoh K. aLeaves facilitates on-demand exploration of metazoan gene family trees on MAFFT sequence alignment server with enhanced interactivity. Nucleic Acids Res. 2013 Jul;41(Web Server issue):W22-8. doi: 10.1093/nar/gkt389. Epub 2013 May 15. PMID: 23677614; PMCID: PMC3692103.
+[^6]: Katoh K, Misawa K, Kuma K, Miyata T. MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 2002 Jul 15;30(14):3059-66. doi: 10.1093/nar/gkf436. PMID: 12136088; PMCID: PMC135756.
 
 
 
