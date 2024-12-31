@@ -12,7 +12,7 @@ Atlas Maker "atlas-maker.py" is a Python tool designed for spliced RNA mapping, 
 
 ## Prerequisites
 
-- Python 3.x (tested in 3.9.19)
+- Python 3.x (tested in Python 3.9.19)
 - BioPython[^1]
 - minimap2[^2][^3] aligner installed and accessible in PATH
 - Input files in FASTA format:
