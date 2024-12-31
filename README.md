@@ -13,8 +13,8 @@ Atlas Maker "atlas-maker.py" is a Python tool designed for spliced RNA mapping, 
 ## Prerequisites
 
 - Python 3.x
-- BioPython
-- minimap2[^1][^2] aligner installed and accessible in PATH
+- BioPython[^1]
+- minimap2[^2][^3] aligner installed and accessible in PATH
 - Input files in FASTA format:
   - Input genome sequence
   - Reference sequence
@@ -270,7 +270,7 @@ out_unsp   tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
 out_19     tgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctc
            ********. **************************************************
 ```
-(Pairwise alignment for tutorial example done with [MAFFT online server](https://mafft.cbrc.jp/alignment/software/) [^3]. Method FFT-NS-i (Standard) [^4]. Command: mafft --reorder --auto input.)
+(Pairwise alignment for tutorial example done with [MAFFT online server](https://mafft.cbrc.jp/alignment/software/) [^4]. Method FFT-NS-i (Standard) [^5]. Command: mafft --reorder --auto input.)
 
 Key features visible in the alignment:
 - Asterisks (*) indicate perfect conservation
@@ -332,10 +332,11 @@ Common issues and solutions:
 - Disk space needed for intermediate files
 - Consider cleanup of temporary files for large datasets
 
-[^1]:Li H. Minimap2: pairwise alignment for nucleotide sequences. Bioinformatics. 2018 Sep 15;34(18):3094-3100. doi: 10.1093/bioinformatics/bty191. PMID: 29750242; PMCID: PMC6137996.
-[^2]: Li H. New strategies to improve minimap2 alignment accuracy. Bioinformatics. 2021 Dec 7;37(23):4572-4574. doi: 10.1093/bioinformatics/btab705. PMID: 34623391; PMCID: PMC8652018.
-[^3]: Kuraku S, Zmasek CM, Nishimura O, Katoh K. aLeaves facilitates on-demand exploration of metazoan gene family trees on MAFFT sequence alignment server with enhanced interactivity. Nucleic Acids Res. 2013 Jul;41(Web Server issue):W22-8. doi: 10.1093/nar/gkt389. Epub 2013 May 15. PMID: 23677614; PMCID: PMC3692103.
-[^4]: Katoh K, Misawa K, Kuma K, Miyata T. MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 2002 Jul 15;30(14):3059-66. doi: 10.1093/nar/gkf436. PMID: 12136088; PMCID: PMC135756.
+[^1]: Cock PJ, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A, Friedberg I, Hamelryck T, Kauff F, Wilczynski B, de Hoon MJ. Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics. 2009 Jun 1;25(11):1422-3. doi: 10.1093/bioinformatics/btp163. Epub 2009 Mar 20. PMID: 19304878; PMCID: PMC2682512.
+[^2]: Li H. Minimap2: pairwise alignment for nucleotide sequences. Bioinformatics. 2018 Sep 15;34(18):3094-3100. doi: 10.1093/bioinformatics/bty191. PMID: 29750242; PMCID: PMC6137996.
+[^3]: Li H. New strategies to improve minimap2 alignment accuracy. Bioinformatics. 2021 Dec 7;37(23):4572-4574. doi: 10.1093/bioinformatics/btab705. PMID: 34623391; PMCID: PMC8652018.
+[^4]: Kuraku S, Zmasek CM, Nishimura O, Katoh K. aLeaves facilitates on-demand exploration of metazoan gene family trees on MAFFT sequence alignment server with enhanced interactivity. Nucleic Acids Res. 2013 Jul;41(Web Server issue):W22-8. doi: 10.1093/nar/gkt389. Epub 2013 May 15. PMID: 23677614; PMCID: PMC3692103.
+[^5]: Katoh K, Misawa K, Kuma K, Miyata T. MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform. Nucleic Acids Res. 2002 Jul 15;30(14):3059-66. doi: 10.1093/nar/gkf436. PMID: 12136088; PMCID: PMC135756.
 
 
 
